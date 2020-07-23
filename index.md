@@ -40,4 +40,4 @@
 - [西安电子科技大学通信工程学院潘伟涛老师微信公众号：网络交换与FPGA]
 ![公众号](./wechat_pan.jpg)
 - [集成电路EDA设计精英挑战赛](http://eda.icisc.cn/)
-- [开源FPGA Spartan Edge Accelerator主页](https://donesea.github.io)
+- [开源FPGA：轻量级边缘计算加速卡 Spartan Edge Accelerator主页](https://donesea.github.io)
