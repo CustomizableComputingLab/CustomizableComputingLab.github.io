@@ -3,8 +3,8 @@
 芯动力——硬件加速设计方法
 ===
 
-[课程主页](https://www.icourse163.org/course/SWJTU-1207492806?tid=1207824209)。
-
+[课程主页，课程视频请戳此链接](https://www.icourse163.org/course/SWJTU-1207492806?tid=1207824209)。
+中国大学MOOC平台，免费注册学习！
 
 课程概述
 ---
@@ -29,7 +29,7 @@
     已经在github开源。如果听众手里有PYNQ Z2开发板，则可以复现该作品。
 
 
-课程大纲
+课程大纲（附每章节slide文件）
 ---
 
 <details>
