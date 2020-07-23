@@ -18,7 +18,7 @@
 
 课程大纲
 ---
-![知识点](./zsd.png)
+![知识点](./zsd.webp)
 - 脚本语言
   1. TCL语言
   2. synopsys TCL语言
