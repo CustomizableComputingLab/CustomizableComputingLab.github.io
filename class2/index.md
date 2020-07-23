@@ -1,7 +1,7 @@
 数字集成电路静态时序分析基础
 ===
 [“IC创新学院”课程主页，课程视频请戳此链接](https://www.iccollege.cn/portal/courseDetail/193.mooc)。
-
+专注于集成电路的MOOC平台，免费注册学习！
 
 课程概述
 ---
