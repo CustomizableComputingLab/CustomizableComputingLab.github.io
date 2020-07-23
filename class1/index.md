@@ -3,7 +3,7 @@
 芯动力——硬件加速设计方法
 ===
 
-[课程主页](https://www.icourse163.org/course/SWJTU-1207492806?tid=1207824209)。
+[课程主页，课程视频请戳此链接](https://www.icourse163.org/course/SWJTU-1207492806?tid=1207824209)。
 
 
 课程概述
