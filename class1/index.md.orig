@@ -34,34 +34,45 @@
 
 <details>
 <summary>
-01: 概述
+01: 概述 [ppt](.)
 </summary>
 
-学习目标：了解硬件加速的意义；知悉芯片设计领域的行业分工与特点；熟悉数字芯片设计的流程和EDA工具；
+学习目标: 了解硬件加速的意义；知悉芯片设计领域的行业分工与特点；熟悉数字芯片设计的流程和EDA工具；
 
-[slide](./slides/1-1.pdf)
+<<<<<<< HEAD
+该章节课时标题：
 
+- 课程概述：说明本门课程的主要内容、各章节知识体系和主要参考书。
+
+=======
+>>>>>>> refs/remotes/origin/master
 </details>
 
 <details>
 <summary>
-02: VerilogHDL可综合设计
+02: VerilogHDL可综合设计 [ppt](.)
 </summary>
 
 学习目标：知悉如何避免常见的VerilogHDL代码误区；掌握如何在考虑性能、面积、功耗、后端实现的情况下，编写高质量代码；掌握常见的RTL设计指导原则。
 
 该章节课时标题：
 
-- 2.1. VerilogHDL可综合描述原则，常见语法描述对应的硬件电路结构 [slide](./slides/2-1.pdf)
+<<<<<<< HEAD
+- 2.1. 可综合风格 [slide](./slides/2-1.pdf)
 
-- 2.2. 在RTL书写中如何考虑延迟、面积等 [slide](./slides/2-2.pdf)
+- 2.2. 在RTL编码中考虑时延、面积、功耗和后端 [slide](./slides/2-2.pdf)
+=======
+2.1. VerilogHDL可综合描述原则，常见语法描述对应的硬件电路结构
+
+2.2. 在RTL书写中如何考虑延迟、面积等
+>>>>>>> refs/remotes/origin/master
 
 - 2.3. RTL设计指导原则 [slide](./slides/2-3.pdf)
 </details>
 
 <details>
 <summary>
-03: 同步电路设计与跨时钟域
+03: 同步电路设计与跨时钟域 [ppt](.)
 </summary>
 
 学习目标：学会理解经典跨时钟域同步电路设计原理；理解和掌握异步FIFO"空""满"设计原理，掌握FIFO深度计算方法；理解"异步复位、同步释放"的原理和方法；理解
@@ -69,26 +80,38 @@
 
 该章节课时标题：
 
-- 3.1. 亚稳态 [slide](./slides/3-1.pdf)
+<<<<<<< HEAD
+- 3.1. 同步电路与异步电路
 
-- 3.2. 单bit信号的跨时钟域传输电路；FIFO导言 [slide](./slides/3-2.pdf)
+- 3.2. 跨时钟域同步器设计
 
-- 3.3. FIFO-空满信号生成机制与深度设计方法 [slide](./slides/3-3.pdf)
+- 3.3. FIFO
 
-- 3.4. FIFO知识点总结 [slide](./slides/3-4.pdf)
+- 3.4. 异步复位、同步释放
 
-- 3.5. 同步复位异步释放电路设计 [slide](./slides/3-5.pdf)
+- 3.5. 状态机
+=======
+3.1. 亚稳态
 
-- 3.6. 状态机概述与分类 [slide](./slides/3-6.pdf)
+3.2. 单bit信号的跨时钟域传输电路；FIFO导言
 
-- 3.7. 两段式与三段式状态机的电路设计结构与分析 [slide](./slides/3-7.pdf)
+3.3. FIFO-空满信号生成机制与深度设计方法
 
+3.4. FIFO知识点总结
+
+3.5. 同步复位异步释放电路设计
+
+3.6. 状态机概述与分类
+
+3.7. 两段式与三段式状态机的电路设计结构与分析
+
+>>>>>>> refs/remotes/origin/master
 </details>
 
 
 <details>
 <summary>
-04: 逻辑综合DesignCompiler
+04: 逻辑综合DesignCompiler [ppt](.)
 </summary>
 
 学习目标：掌握DesignCompiler使用流程，并理解DesignCompiler的约束；掌握Synopsys
@@ -96,48 +119,74 @@ TCL语言的应用方法。
 
 该章节课时标题：
 
-- 4.1. 逻辑综合概述与基本知识 [slide](./slides/4-1.pdf)
+<<<<<<< HEAD
+- 4.1. 工艺库
 
-- 4.2. 标准单元工艺库 [slide](./slides/4-2.pdf)
+- 4.2. 逻辑综合约束
 
-- 4.3. 逻辑综合中如何施加环境约束 [slide](./slides/4-3.pdf)
+- 4.3. Synopsys DC使用流程
 
-- 4.4. 逻辑综合设计约束 [slide](./slides/4-4.pdf)
+- 4.4. Synopsys TCL语言简介
+=======
+4.1. 逻辑综合概述与基本知识
 
-- 4.5. 逻辑综合中优化电路常用方法 [slide](./slides/4-5.pdf)
+4.2. 标准单元工艺库
 
-- 4.6. Synopsys TCL语言简介 [slide](./slides/4-6.pdf)
+4.3. 逻辑综合中如何施加环境约束
+
+4.4. 逻辑综合设计约束
+
+4.5. 逻辑综合中优化电路常用方法
+
+4.6. Synopsys TCL语言简介
+>>>>>>> refs/remotes/origin/master
 </details>
 
 <details>
 <summary>
-05: 静态时序分析
+05: 静态时序分析 [ppt](.)
 </summary>
 
 学习目标：理解建立时间与保持时间的计算原理，掌握多时钟下数据路径的建立时间和保持时间的检查方法。
 
 该章节课时标题：
 
-- 5.1. 静态时序分析入门 [slide](./slides/5-1.pdf)
+<<<<<<< HEAD
+- 5.1. 建立时间检查
 
-- 5.2. 静态时序分析工具如何检查时序路径的建立时间 [slide](./slides/5-2.pdf)
+- 5.2. 保持时间检查
 
-- 5.3. 保持时间检查 [slide](./slides/5-3.pdf)
+- 5.3. 慢时钟与快时钟切换的静态时序分析
+=======
+5.1. 静态时序分析入门
 
-- 5.4. 慢时钟与快时钟切换的静态时序分析 [slide](./slides/5-4.pdf)
+5.2. 静态时序分析工具如何检查时序路径的建立时间
 
-- 5.5. 多时钟与半周期静态时序分析 [slide](./slides/5-5.pdf)
+5.3. 单周期路径的建立时间与保持时间检查方法
+
+5.4. 慢时钟与快时钟切换的静态时序分析
+>>>>>>> refs/remotes/origin/master
+
+- 5.4. 多时钟与半周期静态时序分析
 </details>
 
 <details>
 <summary>
-06: FPAG硬件加速案例
+06: FPAG硬件加速案例 [ppt](.)
 </summary>
 
+<<<<<<< HEAD
+学习目标：基于给出的"FPGA硬件加速案例"的开源代码，理解并复现该作品。相关工程和代码已经在github开源。
+
+该章节课时标题：
+
+- 6.1. FPGA硬件加速流程
+
+- 6.2. PYNQ案例：2018年全国大学生集成电路创新创业一等奖作品
+=======
 学习目标：FPGA硬件加速案例-人工智能算法中softmax函数的硬件加速设计。基于给出的"FPGA硬件加速案例"的开源代码，理解并复现该作品。相关工程和代码已经在github开源。
 
-[slide](./slides/6-1.pdf)
-
+>>>>>>> refs/remotes/origin/master
 </details>
 
 
