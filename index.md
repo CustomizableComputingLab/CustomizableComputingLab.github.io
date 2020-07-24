@@ -24,10 +24,10 @@
 - 2018年，Xilinx OpenHW全国总决赛全国三等奖；
 - 2019年，全国研究生“创芯”大赛全国三等奖；2019年集成电路设计EDA精英挑战赛全国一等奖、Cadence企业特别奖、华大九天企业特别奖；2019年，第三届FPGA创新设计大赛全国二等奖与三等奖各1项。
 
-技术讲解视频
+技术科普与解读（持续更新...）
 ---
-[Google论文《Chip Placement with Deep Reinforcement Learning》解读](https://www.moore8.com/courses/2920)
-
+1.[Google论文《Chip Placement with Deep Reinforcement Learning》解读](https://www.moore8.com/courses/2920)
+2.[留守在家，如何提升和精进FPGA设计能力？](https://zhuanlan.zhihu.com/p/105643308)
 
 - - -
 
