@@ -26,8 +26,8 @@
 
 技术科普与解读（持续更新...）
 ---
-1.[Google论文《Chip Placement with Deep Reinforcement Learning》解读](https://www.moore8.com/courses/2920)
-2.[留守在家，如何提升和精进FPGA设计能力？](https://zhuanlan.zhihu.com/p/105643308)
+- [Google论文《Chip Placement with Deep Reinforcement Learning》解读](https://www.moore8.com/courses/2920)
+- [留守在家，如何提升和精进FPGA设计能力？](https://zhuanlan.zhihu.com/p/105643308)
 
 - - -
 
