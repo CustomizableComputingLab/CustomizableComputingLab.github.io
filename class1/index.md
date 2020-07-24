@@ -142,6 +142,8 @@ TCL语言的应用方法。
 
 </details>
 
+**课内设计**：
+Open Mini Bitcoin Miner [slide](./slides/ASIC_ex.pdf)  
 
 ---
 **课程图片**：
