@@ -26,9 +26,13 @@
 
 技术科普与解读（持续更新...）
 ---
+- 视频
 - [Google论文《Chip Placement with Deep Reinforcement Learning》解读](https://www.moore8.com/courses/2920)
-- [留守在家，如何提升和精进FPGA设计能力？](https://zhuanlan.zhihu.com/p/105643308)
 - [2020年Xilinx FPGA暑期学校](https://www.bilibili.com/video/BV1CD4y1m7fM)
+
+- 文章
+- [留守在家，如何提升和精进FPGA设计能力？](https://zhuanlan.zhihu.com/p/105643308)
+
 - - -
 
 [个人主页](https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/index.htm)
