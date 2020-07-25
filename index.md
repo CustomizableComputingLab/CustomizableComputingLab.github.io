@@ -43,7 +43,7 @@
 [个人科研主页，请戳此链接](https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/index.htm)
 
 - [邮箱：zxdi@home.swjtu.edu.cn]
-- [请加教师微信，加入课程微信群]
+- [请加教师微信，加入课程微信群]  
   ![课程图片](./foreversnow_wechat1.jpg)
 
 友情链接:
