@@ -32,6 +32,11 @@
 
 文章
 - [留守在家，如何提升和精进FPGA设计能力？](https://zhuanlan.zhihu.com/p/105643308)
+- [一文学会使用全球第四大数字芯片仿真器iverilog](https://zhuanlan.zhihu.com/p/148795858)
+- [初学Chisel语言，看这篇就够了：最方便简洁的入门资料整理](https://zhuanlan.zhihu.com/p/98097268)
+- [数字IC设计入门书单](https://zhuanlan.zhihu.com/p/23429432)
+- [数字集成电路的设计流程简介](https://zhuanlan.zhihu.com/p/24476011)
+- [Verilog 有什么奇技淫巧？](https://zhuanlan.zhihu.com/p/28080624)
 
 - - -
 
