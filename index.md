@@ -15,7 +15,7 @@
 ---
 
 - 2018年全国大学生集成电路创新创业大赛一等奖作品[Softmax函数的硬件加速计算电路设计](https://github.com/CustomizableComputingLab/PYNQ_softmax)
-- 2019年集成电路EDA精英挑战赛作品[基于Cadence工具的数字芯片层次化物理设计](https://zhuanlan.zhihu.com/p/153232123)
+- 2019年集成电路EDA精英挑战赛全国一等奖作品[基于Cadence工具的数字芯片层次化物理设计](https://zhuanlan.zhihu.com/p/153232123)
 
 其他获奖作品（陆续开源中...）：
 - 2016年，参加第六届(2016年)大学生集成电路设计大赛，获全国三等奖；
