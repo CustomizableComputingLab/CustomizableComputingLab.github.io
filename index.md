@@ -41,6 +41,13 @@
 
 - - -
 
+芯片设计笔试题与面试题（持续收集与更新...）
+---
+- [详情请戳次链接](./examination)
+
+- - -
+
+
 [个人科研主页，请戳此链接](https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/index.htm)
 
 - [邮箱：zxdi@home.swjtu.edu.cn]
