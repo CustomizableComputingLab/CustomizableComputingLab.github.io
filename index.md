@@ -63,5 +63,6 @@
 
 - [西安电子科技大学通信工程学院潘伟涛老师微信公众号：网络交换与FPGA]
 ![课程图片](./wechat_pan1.jpg)
+- [宽带隙半导体国家重点学科实验室](http://kdx.xidian.edu.cn/)
 - [集成电路EDA设计精英挑战赛](http://eda.icisc.cn/)
 - [开源FPGA：轻量级边缘计算加速卡 Spartan Edge Accelerator主页](https://donesea.github.io)
