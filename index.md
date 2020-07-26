@@ -47,8 +47,9 @@
 
 - - -
 
-
-[**个人科研主页，请戳此链接**](https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/index.htm)
+教师个人科研主页
+---  
+[**请戳此链接**](https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/index.htm)
 
 - [邮箱：zxdi@home.swjtu.edu.cn]
 - [请加教师微信，加入课程微信群]  
