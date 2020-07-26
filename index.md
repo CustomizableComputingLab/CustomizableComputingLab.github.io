@@ -12,7 +12,7 @@
 - [IC创新学院（隶属于南京集成电路产业服务中心）- 数字集成电路静态时序分析基础。](./class2)
 
 
-学科竞赛作品。
+学科竞赛作品
 ---
 
 - 2018年全国大学生集成电路创新创业大赛一等奖作品[Softmax函数的硬件加速计算电路设计](https://github.com/CustomizableComputingLab/PYNQ_softmax)
@@ -45,6 +45,8 @@
 ---
 - [详情请戳此链接](./examination)
 
+
+  
 
 
 教师个人科研主页
