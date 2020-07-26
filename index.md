@@ -39,7 +39,7 @@
 - [数字集成电路的设计流程简介](https://zhuanlan.zhihu.com/p/24476011)
 - [Verilog 有什么奇技淫巧？](https://zhuanlan.zhihu.com/p/28080624)
 
-- - -
+
 
 芯片设计笔试题与面试题（持续收集与更新...）
 ---
