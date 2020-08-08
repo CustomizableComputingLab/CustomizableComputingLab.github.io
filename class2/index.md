@@ -11,9 +11,10 @@
 课程大纲
 ---
 ![知识点](./zsd.webp)
+- 课程概述 [slide](./slides/1-课程概述.pdf)  
 - 脚本语言
-  1. TCL语言
-  2. synopsys TCL语言
+  1. TCL语言 [slide](./slides/2-TCL语言入门.pdf)  [slide](./slides/3-TCL语言入门.pdf) 
+  2. synopsys TCL语言  [slide](./slides/4-Synopsys TCL语言入门.pdf) 
 - 标准单元工艺库
 - 建立静态时序分析的环境
   1. 时钟相关约束
