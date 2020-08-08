@@ -39,7 +39,4 @@
 ---
 1. Static Timing Analysis for Nanometer Designs: A Practical Approach. J.
    Bhasker, Rakesh Chadha. Springer Science Business Media, LLC 2009. 
-2. 综合与时序分析的设计约束：Synopsys设计约束（SDC）实用指南。[美] 斯里达尔·甘
-   加达兰（Sridhar Gangadharan），[印度] 桑杰·丘里瓦拉（Sanjay，Chur 著，韩德强
-   张丽艳 王宗侠等译 译 
-3. 集成电路静态时序分析与建模. 刘峰, 机械工业出版社.出版时间：2016-07-01.
+2. 集成电路静态时序分析与建模. 刘峰, 机械工业出版社.出版时间：2016-07-01.
