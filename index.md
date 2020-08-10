@@ -7,7 +7,7 @@
 课程详细信息
 ---  
 
-- 提示：如果github网站访问速度较慢，可以访问gitee的主页，方便下载课件；[gitee主页] (https://customizablecomputinglab.gitee.io/share/)。
+- 提示：如果github网站访问速度较慢，可以访问gitee的主页，方便下载课件；[gitee主页](https://customizablecomputinglab.gitee.io/share/)。
 
 - [中国大学MOOC平台：芯动力——硬件加速设计方法。](./class1)
 
