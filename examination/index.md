@@ -10,5 +10,6 @@ ASIC/SoC Physical Implementation后端实现
 ---  
   
 - [NVIDIA-BackEnd-interview](./pdf_list/NVIDIA-BackEnd-interview.pdf)  
-  
-  
+- [verisilicon-APR-1](./pdf_list/verisilicon-APR-1.pdf)  
+- [verisilicon-APR-1](./pdf_list/verisilicon-APR-2.pdf)   
+- [verisilicon-APR-3](./pdf_list/verisilicon-APR-3.pdf) 
