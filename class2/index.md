@@ -5,7 +5,7 @@
 
 课程概述
 ---
-时序收敛是数字集成电路和FPGA都极为关注的指标，不管在前端RTL设计还是后端物理实现阶段都需要投入大量的时间和精力。本课程以经典书籍《Static Timing Analysis for Nanometer Designs: A Practical Approach》为教材，重点以Synopsys TCL语言入门、工艺库、复杂时序路径分析方法为核心内容，辅以时序分析笔试题，期望通过这门课程掌握静态时序分析方法。
+时序收敛是数字集成电路和FPGA都极为关注的指标，不管在前端RTL设计还是后端物理实现阶段都需要投入大量的时间和精力。本课程以经典书籍《Static Timing Analysis for Nanometer Designs: A Practical Approach》为教材，重点以Synopsys TCL语言入门、工艺库、复杂时序路径分析方法为核心内容，辅以时序分析笔试题，期望通过这门课程掌握静态时序分析方法。  
 
 
 课程大纲
@@ -34,9 +34,10 @@
 前序知识
 ---具备数字集成电路、ASIC/SoC/FPGA设计等基础知识。
 
-
 参考资料
 ---
 1. Static Timing Analysis for Nanometer Designs: A Practical Approach. J.
    Bhasker, Rakesh Chadha. Springer Science Business Media, LLC 2009. 
-2. 集成电路静态时序分析与建模. 刘峰, 机械工业出版社.出版时间：2016-07-01.
+2. 集成电路静态时序分析与建模. 刘峰, 机械工业出版社.出版时间：2016-07-01.  
+3. 同学们也可以参考上海交通大学硕士生赵俊军对文献1的翻译工作。文章链接为https://www.zhihu.com/people/zhao-jun-jun-19/posts
+在此非常感谢赵俊军同学的辛苦工作，他自发利用学习和科研空余时间来翻译了这本经典著作，如果感兴趣，请多关注他的知乎，为他点赞。
