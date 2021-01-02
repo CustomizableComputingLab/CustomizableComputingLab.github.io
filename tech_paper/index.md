@@ -1,6 +1,3 @@
-- [视频与文章](./tech_paper)
-
-
 视频
 - [Google论文《Chip Placement with Deep Reinforcement Learning》解读](https://www.moore8.com/courses/2920)
 - [2020年Xilinx FPGA暑期学校](https://www.bilibili.com/video/BV1CD4y1m7fM)
