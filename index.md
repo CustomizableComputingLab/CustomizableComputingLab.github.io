@@ -67,7 +67,7 @@ MOOC课程详细信息(配套slides下载等)
 
 教师个人科研主页
 ---  
-- [科研主页详情请戳此链接](https://faculty.swjtu.edu.cn/dizhixiong/zh_CN/index.htm)
+- [科研主页详情请戳此链接](./research)
 
 - [邮箱：zxdi@home.swjtu.edu.cn]
 - [请加教师微信，加入课程微信群]  
