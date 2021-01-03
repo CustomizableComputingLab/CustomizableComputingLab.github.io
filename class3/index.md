@@ -18,9 +18,9 @@
 
 实验：兼容PIC指令集的MCU设计(备注：设计对象很陈旧，差不多是十年之前的案例，但是可以理解如何使用FPGA设计MCU软核)
 
-- PIC_MCU_datasheet [download](./PIC_MCU_datasheet.zip)
-- RTL source code  [download](./RTL_CODE.zip)
-- 讲解slide和技术文档 [download](./slide.zip)
+- PIC_MCU_datasheet [download](./video/PIC_MCU_datasheet.zip)
+- RTL source code  [download](./video/RTL_CODE.zip)
+- 讲解slide和技术文档 [download](./video/slide.zip)
 
 
 2.春季学期：SoC设计方法（本科）
