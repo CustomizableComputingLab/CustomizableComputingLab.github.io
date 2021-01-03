@@ -16,6 +16,12 @@
 7.  微体系结构
 8.  存储器和输入/输出系统
 
+实验：兼容PIC指令集的MCU设计(备注：设计对象很陈旧，差不多是十年之前的案例，但是可以理解如何使用FPGA设计MCU软核)
+
+- PIC_MCU_datasheet [slide](./PIC_MCU_datasheet.zip)
+- RTL source code  [slide](./RTL_CODE.zip)
+- 讲解slide和技术文档 [slide](./slide.zip)
+
 
 2.春季学期：SoC设计方法（本科）
 ===
