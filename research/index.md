@@ -17,7 +17,7 @@
 ![实例图片](./EDA_layer_assignment.webp)
 - 拥塞预测算法：将AI算法应用于可布线性预测中，预测性能与泛化能力均优于现有算法。
 - FPGA部分可重构设计
-
+![实例图片](./reconfigurable_FPGA.webp)
 
 3.科研概况：其他
 ---
