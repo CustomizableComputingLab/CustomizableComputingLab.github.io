@@ -223,6 +223,12 @@ Bhasker, Rakesh Chadha. Springer.2009. Chapter 8.
 ---
 ![教学内容](./jxnr-horizontal.webp)
 
+
+练习题
+---
+![RTL Coding](./test/RTL_TEST.zip) 
+
+
 参考网站
 ---
 - [PYNQ: PYTHON PRODUCTIVITY](http://www.pynq.io/)
