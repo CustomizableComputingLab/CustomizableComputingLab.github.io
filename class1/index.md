@@ -227,7 +227,8 @@ Bhasker, Rakesh Chadha. Springer.2009. Chapter 8.
 练习题
 ---
 RTL练习题
- [RTL TEST](./test/RTL_TEST.zip)
+ [RTL TEST1](./test/RTL_TEST.zip)  
+ [RTL TEST1](./test2/test2.zip)
 
 
 参考网站
