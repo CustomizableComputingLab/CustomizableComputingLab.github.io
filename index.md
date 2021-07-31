@@ -14,6 +14,8 @@
 
 1.新闻
 ---
+
+- 2021.04，论文“ASIC design principle course with combination Online-MOOC and Offline-inexpensive FPGA Board”被2021 Greatlake VLSI会议录用！
 - 2021.01.12，荣获2020年“詹天佑铁道科学技术奖”之“教书育人”专项奖！
 - 2020.12.06，祝贺研一陈卓同学的作品“基于Xilinx DPU的芯片表面缺陷检测硬件加速系统”荣获“2020第四届全国大学生FPGA创新设计竞赛”全国二等奖！  
 ![获奖图片](./image/2020FPGA创新设计竞赛-二等奖-陈卓.webp)
