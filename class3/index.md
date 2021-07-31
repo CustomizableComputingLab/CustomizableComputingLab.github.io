@@ -17,7 +17,7 @@
 8.  存储器和输入/输出系统
 
 实验：兼容PIC指令集的MCU设计(备注：设计对象很陈旧，差不多是十年之前的案例，但是可以理解如何使用FPGA设计MCU软核)
-
+- [讲解视频](https://www.bilibili.com/video/BV19b4y1Z76Z) 
 - PIC_MCU_datasheet [download](./video/PIC_MCU_datasheet.zip)
 - RTL source code  [download](./video/RTL_CODE.zip)
 - 讲解slide和技术文档 [download](./video/slide.zip)
