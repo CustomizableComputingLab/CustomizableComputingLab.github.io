@@ -21,7 +21,7 @@
   ![毕业设计]( ./stu_defense.jpg)
 - 2021.06，祝贺陈旋、吴伟同学的工作“Detailed Routing Short Violation Prediction Using Graph-based Deep Learning Model”被TCAS2录用！文章提出了一种布局阶段基于GNN的routability预测模型，能够在小规模数据集上实现目前最强的泛化能力。
 - 2021.06，荣获2021年“阿里云MVP”！
--  ![MVP]( ./ali_mvp.jpg)
+  ![MVP]( ./ali_mvp.jpg)
 - 2021.06，祝贺邵桢瑜同学的工作"A High-Throughput VLSI Architecture Design Of Canonical Huffman Encoder"被IEEE TCAS2录用。
 - 2021.04，教学论文“ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board”被微电子与集成电路领域知名国际学术会议“2021 31th ACM Great Lakes Symposium on VLSI”(CCF-C)录用（Oral Report; Panel 嘉宾）。该论文系西南交大微电子学科首次在集成电路国际学术会议展示教学成果。该论文相关教学改革工作被“电子学报”官网首页头条报道（2021.5.30）、被中国电子电子学会官网、“电子学报”公众号、“中国电子学会”公众号报道。
 - 2021.01.12，荣获2020年“詹天佑铁道科学技术奖”之“教书育人”专项奖！
