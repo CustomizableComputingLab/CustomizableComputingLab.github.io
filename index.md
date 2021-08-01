@@ -24,6 +24,7 @@
   ![MVP]( ./ali_mvp.jpg)
 - 2021.06，祝贺邵桢瑜同学的工作"A High-Throughput VLSI Architecture Design Of Canonical Huffman Encoder"被IEEE TCAS2录用。
 - 2021.04，教学论文“ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board”被微电子与集成电路领域知名国际学术会议“2021 31th ACM Great Lakes Symposium on VLSI”(CCF-C)录用（Oral Report; Panel 嘉宾）。该论文系西南交大微电子学科首次在集成电路国际学术会议展示教学成果。该论文相关教学改革工作被“电子学报”官网首页头条报道（2021.5.30）、被中国电子电子学会官网、“电子学报”公众号、“中国电子学会”公众号报道。
+  ![JCE]( ./JCE.jpg)
 - 2021.01.12，荣获2020年“詹天佑铁道科学技术奖”之“教书育人”专项奖！
 - 2020.12.06，祝贺研一陈卓同学的作品“基于Xilinx DPU的芯片表面缺陷检测硬件加速系统”荣获“2020第四届全国大学生FPGA创新设计竞赛”全国二等奖！  
 ![获奖图片](./image/2020FPGA创新设计竞赛-二等奖-陈卓.webp)
