@@ -15,6 +15,8 @@
 1.新闻
 ---
 
+- 2021.08，祝贺两位本科生徐启涵、向云帆同学的工作“Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder”被IEEE Geoscience Remote Sensing Letters录用！
+  ![集创赛2021获奖](./icdesign_contest.jpg)
 - 2021.06，祝贺两位本科生徐启涵、向云帆同学的工作“Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder”被IEEE Geoscience Remote Sensing Letters录用！
 - 2021.06，祝贺两位毕业的同学：祝贺硕士生吴伟同学（SP Offer）加入华为海思，祝贺本科生刘已秋同学（SSP Offer）加入国产EDA公司奥卡思微电子！
 - 2021.06，祝贺指导的本科生顺利通过答辩！  
