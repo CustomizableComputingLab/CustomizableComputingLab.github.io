@@ -14,7 +14,7 @@
 
 1.新闻
 ---
-
+- 2021.09，荣获“立德树人”先进个人：“教书育人”新秀奖！
 - 2021.08，第五届全国大学生集成电路创新创业大赛中，指导学生荣获 1 项特等奖、2 项一等奖、2 项三等奖！
   ![集创赛2021获奖](./icdesign_contest.jpg)
 - 2021.06，祝贺两位本科生徐启涵、向云帆同学的工作“Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder”被IEEE Geoscience Remote Sensing Letters录用！
