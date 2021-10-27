@@ -10,7 +10,6 @@ RV-SoC design Methodology Based on T-Head E902
 
 课程概述
 ---
-本课程的教学内容主要包括：
 ![课程大纲](./RV-SoC_Design_Methodolgy.jpg)
 
 
