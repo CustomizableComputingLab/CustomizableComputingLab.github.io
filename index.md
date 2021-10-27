@@ -48,9 +48,11 @@
 
 - 提示：如果github网站访问速度较慢，可以访问gitee的主页，方便下载课件；[gitee主页](https://customizablecomputinglab.gitee.io)。
 
-- [中国大学MOOC平台：芯动力——硬件加速设计方法。](./class1)
+- [中国大学MOOC平台：芯动力——硬件加速设计方法](./class1)
 
-- [B站：数字集成电路静态时序分析基础。](./class2)
+- [B站：数字集成电路静态时序分析基础](./class2)
+ 
+- [RV-SoC design Methodology Based on T-Head E902](./class5)
 
 
 3.线下承担课程教学工作
