@@ -21,7 +21,7 @@ RV-SoC design Methodology Based on T-Head E902
 课程slides
 ---
 TBD
-![课程软硬件](./slides/1-SoC概述.pdf)
+[1-SoC概述](./slides/1-SoC概述.pdf)
 
 课程源代码
 ---
