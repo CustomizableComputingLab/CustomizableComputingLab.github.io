@@ -20,13 +20,13 @@ RV-SoC design Methodology Based on T-Head E902
 
 课程slides
 ---
-[1-SoC概述](./slides/1-SoC概述.pdf)
-[2-玄铁E902处理器与无剑100 SoC体系架构.pdf](./slides/2-玄铁E902处理器与无剑100 SoC体系架构.pdf)
-[3-异常与中断.pdf](./slides/3-异常与中断.pdf)
-[4-软硬件通用工具介绍.pdf](./slides/4-软硬件通用工具介绍.pdf)
-[5-基于NexysVideo板卡的FPGA实现和IO LAB实验.pdf](./slides/5-基于NexysVideo板卡的FPGA实现和IO LAB实验.pdf)
-[6-RT-Thread Nano移植.pdf](./slides/6-RT-Thread Nano移植.pdf)
-[7-案例：无剑100SoC与softmax硬件加速IP的集成.pdf](./slides/7-案例：无剑100SoC与softmax硬件加速IP的集成.pdf)
+[1-SoC概述](./slides/1-SoC概述.pdf)  
+[2-玄铁E902处理器与无剑100 SoC体系架构.pdf](./slides/2-玄铁E902处理器与无剑100 SoC体系架构.pdf)  
+[3-异常与中断.pdf](./slides/3-异常与中断.pdf)  
+[4-软硬件通用工具介绍.pdf](./slides/4-软硬件通用工具介绍.pdf)  
+[5-基于NexysVideo板卡的FPGA实现和IO LAB实验.pdf](./slides/5-基于NexysVideo板卡的FPGA实现和IO LAB实验.pdf)  
+[6-RT-Thread Nano移植.pdf](./slides/6-RT-Thread Nano移植.pdf)  
+[7-案例：无剑100SoC与softmax硬件加速IP的集成.pdf](./slides/7-案例：无剑100SoC与softmax硬件加速IP的集成.pdf)  
 
 课程源代码
 ---
