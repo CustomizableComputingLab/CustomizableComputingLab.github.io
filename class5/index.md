@@ -32,7 +32,14 @@ RV-SoC design Methodology Based on T-Head E902
 ---
 TBD
 
-**参考资料**
+**课程参考资料**
+---
+[NexysVideo板卡资料](http://www.digilent.com.cn/products/product-nexys-video-artix-7-fpga-trainer-board-for-multimedia-applications.html)  
+[RT-Thread内核原理与应用](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-nano/an0038-nano-introduction)  
+[跟我一起写makefile](https://blog.csdn.net/xiaoshuai537/article/details/79340153)
+
+
+**平头哥开源工程**
 ---
 平头哥新开源的 OpenXuantie 系列 RISC-V 处理器，包括玄铁 E902、E906、C906、C910 等 4 款量产处理器，以及基于 OpenXuantie 的多操作系统（AliOS、FreeRTOS、RT-Thread、Linux、Android 等）的全栈软件及工具。  
 [wujian100 SoC](https://github.com/T-head-Semi/wujian100_open.git)。  
@@ -40,4 +47,5 @@ TBD
 [玄铁E906内核](https://github.com/T-head-Semi/opene906.git)。  
 [玄铁C906内核](https://github.com/T-head-Semi/openc906.git)。  
 [玄铁E910内核](https://github.com/T-head-Semi/openc910.git)。  
+
 
