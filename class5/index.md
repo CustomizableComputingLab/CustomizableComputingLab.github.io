@@ -32,5 +32,12 @@ RV-SoC design Methodology Based on T-Head E902
 ---
 TBD
 
-
+**参考资料**
+---
+平头哥新开源的 OpenXuantie 系列 RISC-V 处理器，包括玄铁 E902、E906、C906、C910 等 4 款量产处理器，以及基于 OpenXuantie 的多操作系统（AliOS、FreeRTOS、RT-Thread、Linux、Android 等）的全栈软件及工具。  
+[wujian100 SoC](https://github.com/T-head-Semi/wujian100_open.git)。  
+[玄铁E902内核](https://github.com/T-head-Semi/opene902.git)。  
+[玄铁E906内核](https://github.com/T-head-Semi/opene906.git)。  
+[玄铁C906内核](https://github.com/T-head-Semi/openc906.git)。  
+[玄铁E910内核](https://github.com/T-head-Semi/openc910.git)。  
 
