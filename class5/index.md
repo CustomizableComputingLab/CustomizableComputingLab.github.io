@@ -30,12 +30,15 @@ RV-SoC design Methodology Based on T-Head E902
 
 课程源代码
 ---
-TBD
+[基于NexysVideo板卡的FPGA实现]() 
+[基于NexysVideo板卡的IO LAB实验]() 
+[RT-Thread Nano移植]() 
+[无剑100SoC与softmax硬件加速IP的集成]() 
 
 **课程参考资料**
 ---
 [NexysVideo板卡资料](http://www.digilent.com.cn/products/product-nexys-video-artix-7-fpga-trainer-board-for-multimedia-applications.html)  
-[RT-Thread内核原理与应用](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-nano/an0038-nano-introduction)  
+[RT-Thread Nano内核原理与应用](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-nano/an0038-nano-introduction)  
 [跟我一起写makefile](https://blog.csdn.net/xiaoshuai537/article/details/79340153)
 
 
@@ -47,5 +50,5 @@ TBD
 [玄铁E906内核](https://github.com/T-head-Semi/opene906.git)。  
 [玄铁C906内核](https://github.com/T-head-Semi/openc906.git)。  
 [玄铁E910内核](https://github.com/T-head-Semi/openc910.git)。  
-
+[平头哥工具链和CDK集成开发软件](https://occ.t-head.cn/community/download?id=646798746268467200)。  
 
