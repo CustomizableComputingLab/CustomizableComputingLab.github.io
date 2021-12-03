@@ -15,7 +15,7 @@ RV-SoC design Methodology Based on T-Head E902
 
 课程所需软件硬件
 ---
-![课程软硬件](./hardware.jpg)
+![课程软硬件](./tools.jpg)
 
 
 课程slides
