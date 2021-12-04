@@ -7,6 +7,8 @@ RV-SoC Design Methodology Based on T-Head E902
 [课程主页，课程视频请戳此链接，即将上线，敬请期待](https://www.icourse163.org/course/SWJTU-1207492806)。
 - 中国大学MOOC平台，免费注册学习！练习、作业、考试题请见“中国大学MOOC”。
 - 教师可以联系邮箱zxdi@home.swjtu.edu.cn获取课程所有作业参考答案。
+- 学习建议：下载源代码与工程文件，配合视频进行实操。本课程官方支持的FPGA开发板为Digilent Nexy Video，但是只要FPGA板卡的资源能够承载无剑SoC，都可以用来学习与实践本课程的内容。 
+
 
 课程概述
 ---
@@ -69,6 +71,3 @@ RV-SoC Design Methodology Based on T-Head E902
 - 感谢阿里云、平头哥半导体有限公司、“教育部产学合作协同育人计划”对本课程的支持！
 - 感谢Digilent公司对本课程的支持！
 - 感谢助教马晓宝同学为本课程内容、案例、维护等作出的巨大贡献！
-
-
-
