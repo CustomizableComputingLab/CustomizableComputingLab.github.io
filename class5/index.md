@@ -31,10 +31,10 @@ RV-SoC Design Methodology Based on T-Head E902
 
 课程源代码
 ---
-[1.基于NexysVideo板卡的FPGA实现]() 
-[2.基于NexysVideo板卡的IO LAB实验]() 
-[3.RT-Thread Nano移植]() 
-[4.无剑100SoC与softmax硬件加速IP的集成]() 
+[1.基于NexysVideo板卡的FPGA实现](https://github.com/CustomizableComputingLab/Nexysvideo_wujian100/tree/main/wujian100_nexysvideo)  
+[2.基于NexysVideo板卡的IO LAB实验](https://github.com/CustomizableComputingLab/Nexysvideo_wujian100/tree/main/IO_LAB_nexysvideo)  
+[3.RT-Thread Nano移植](https://github.com/CustomizableComputingLab/Nexysvideo_wujian100/tree/main/rtthread_nexysvideo)  
+[4.无剑100SoC与softmax硬件加速IP的集成](https://github.com/CustomizableComputingLab/Nexysvideo_wujian100/tree/main/softmax_nexysvideo)  
 
 **课程参考资料**
 ---
