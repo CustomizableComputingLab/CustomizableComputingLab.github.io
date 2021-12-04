@@ -56,9 +56,19 @@ RV-SoC Design Methodology Based on T-Head E902
 [3.玄铁E906内核](https://github.com/T-head-Semi/opene906.git)  
 [4.玄铁C906内核](https://github.com/T-head-Semi/openc906.git)  
 [5.玄铁C910内核](https://github.com/T-head-Semi/openc910.git)  
-[6.平头哥工具链和CDK集成开发软件](https://occ.t-head.cn/community/download?id=646798746268467200)。  
+[6.平头哥工具链和CDK集成开发软件](https://occ.t-head.cn/community/download?id=646798746268467200)  
 
 
 **友情链接**
 ---
 [全国大学生集成电路创新创业大赛-平头哥赛道](http://univ.ciciec.com/nd.jsp?id=348#_jcp=1)
+
+
+**致谢**
+---
+- 感谢阿里云、平头哥半导体有限公司、“教育部产学合作协同育人计划”对本课程的支持！
+- 感谢Digilent公司对本课程的支持！
+- 感谢助教马晓宝同学为本课程内容、案例、维护等作出的巨大贡献！
+
+
+
