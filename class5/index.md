@@ -38,9 +38,14 @@ RV-SoC Design Methodology Based on T-Head E902
 
 **课程参考资料**
 ---
-[1.NexysVideo板卡资料](http://www.digilent.com.cn/products/product-nexys-video-artix-7-fpga-trainer-board-for-multimedia-applications.html)  
-[2.RT-Thread Nano内核原理与应用](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-nano/an0038-nano-introduction)  
-[3.跟我一起写makefile](https://blog.csdn.net/xiaoshuai537/article/details/79340153)
+[1.玄铁E902_R2S2用户手册](https://occ.t-head.cn/vendor/cpu/download?id=3806460569050419200#sticky)  
+[2.RISC-V 指令集手册](https://github.com/riscv/riscv-isa-manual)   
+[3.RISC-V Core-Local Interrupt Controller](https://github.com/riscv/riscv-fast-interrupt)   
+[4.RISC-V platform-level interrupt controller](https://github.com/riscv/riscv-plic-spec)  
+[5.NexysVideo板卡资料](http://www.digilent.com.cn/products/product-nexys-video-artix-7-fpga-trainer-board-for-multimedia-applications.html)  
+[6.RT-Thread Nano内核原理与应用](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-nano/an0038-nano-introduction)  
+[7.跟我一起写makefile](https://blog.csdn.net/xiaoshuai537/article/details/79340153)  
+
 
 
 **平头哥开源工程**
