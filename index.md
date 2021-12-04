@@ -53,7 +53,7 @@
 
 - [B站：数字集成电路静态时序分析基础](./class2)
  
-- [RV-SoC design Methodology Based on T-Head E902](./class5)
+- [RV-SoC Design Methodology Based on T-Head E902](./class5)
 
 
 3.线下承担课程教学工作
