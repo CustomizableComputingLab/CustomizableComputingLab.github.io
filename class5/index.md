@@ -76,3 +76,7 @@ RV-SoC Design Methodology Based on T-Head E902
 - 感谢阿里云、平头哥半导体有限公司、“教育部产学合作协同育人计划”对本课程的支持！
 - 感谢Digilent公司对本课程的支持！
 - 感谢助教马晓宝同学为本课程内容、案例、维护等作出的巨大贡献！
+
+**返回教师主页**
+---
+[个人主页](http://www.dizhixiong.cn/)
