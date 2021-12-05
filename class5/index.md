@@ -65,6 +65,12 @@ RV-SoC Design Methodology Based on T-Head E902
 [全国大学生集成电路创新创业大赛-平头哥赛道](http://univ.ciciec.com/nd.jsp?id=348#_jcp=1)
 
 
+**提醒**
+---
+本课程重点讲述基于RISC-V处理器的SoC集成与FPGA实现，如果只是想体验RISC-V处理器，而对FPGA、SoC等均无兴趣，建议直接上手全志“哪吒D1”开发板
+[社区网址](https://d1.docs.aw-ol.com/d1_dev/)
+
+
 **致谢**
 ---
 - 感谢阿里云、平头哥半导体有限公司、“教育部产学合作协同育人计划”对本课程的支持！
