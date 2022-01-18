@@ -60,6 +60,11 @@ RV-SoC Design Methodology Based on T-Head E902
 [6.平头哥工具链和CDK集成开发软件](https://occ.t-head.cn/community/download?id=646798746268467200)  
 
 
+**Nexys-n4-ddr（100T）移植案例**
+---
+[Verimake成功将玄铁E902与无剑100 SoC移植到Digilent Nexys100T开发板，可给同学们学习RISC-V、FPGA提供更丰富的学习资源。访问可戳此链接](https://verimake.com/d/10-wujian100nexys-4-ddr)
+
+
 **友情链接**
 ---
 [全国大学生集成电路创新创业大赛-平头哥赛道](http://univ.ciciec.com/nd.jsp?id=348#_jcp=1)
