@@ -65,11 +65,6 @@ RV-SoC Design Methodology Based on T-Head E902
 [Verimake成功将玄铁E902与无剑100 SoC移植到Digilent Nexys100T开发板，可给同学们学习RISC-V、FPGA提供更丰富的学习资源。访问可戳此链接](https://verimake.com/d/10-wujian100nexys-4-ddr)
 
 
-**友情链接**
----
-[全国大学生集成电路创新创业大赛-平头哥赛道](http://univ.ciciec.com/nd.jsp?id=348#_jcp=1)
-
-
 **提醒**
 ---
 本课程重点讲述基于RISC-V处理器的SoC集成与FPGA实现，如果只是想体验RISC-V处理器，而对FPGA、SoC等均无兴趣，建议直接上手全志“哪吒D1”开发板
@@ -80,7 +75,6 @@ RV-SoC Design Methodology Based on T-Head E902
 ---
 - 感谢阿里云、平头哥半导体有限公司、“教育部产学合作协同育人计划”对本课程的支持！
 - 感谢Digilent公司对本课程的支持！
-- 感谢助教马晓宝同学为本课程内容、案例、维护等作出的巨大贡献！
 
 **返回教师主页**
 ---
