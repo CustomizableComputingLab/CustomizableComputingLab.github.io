@@ -14,6 +14,7 @@
 
 1.新闻
 ---
+- 2022.02，祝贺陈旋同学的工作"Learned Compression Framework with Pyramidal Features and Quality Enhancement for SAR images"被IEEE GRSL录用。
 - 2021.12，祝贺两组同学在“2021第三届集成电路EDA设计精英挑战赛”新思科技2.5D布局算法赛道、国微multi-patterning DRC检测算法赛道荣获两项全国二等奖！祝贺锦炜同学因以去年安路科技赛道第一名作品为基础投稿IEEE TCAD（EDA领域顶级期刊）被录用论文，荣获大赛首次颁发的“学术进取奖”。有幸因连续三届指导学生获奖，被授予“EDA精心育人奖”。感谢EDA精英挑战赛组委会！有幸因担任安路赛题chair，被授予“专业贡献奖”。感谢EDA精英挑战赛组委会！
 - 2021.12，祝贺陈锦炜同学的工作"NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design"被IEEE TCAD录用。
 - 2021.12，《基于玄铁CPU与无剑SoC的芯片设计与应用产教融合精品慕课建设》课程体系改革项目成功入选2021年度教育部产学合作协同育人优秀项目案例。
