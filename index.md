@@ -47,8 +47,20 @@
 - 2020.07.21，祝贺2017级本科生马晓宝同学与陈春晖同学荣获2020年“第四届全国大学生集成电路创新创业大赛”西南赛区一等奖，并入围全国总决赛！  
 - 2020.07.17，祝贺2016级本科生林思成同学入职国产FPGA顶尖公司“紫光同创”！
 
+2.代表性论文
+---
 
-2.MOOC课程详细信息(配套slides下载等)
+- Z. Di, X. Chen, Q. Wu, J. Shi, Q. Feng and Y. Fan, "Learned Compression Framework With Pyramidal Features and Quality Enhancement for SAR Images," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4505605, doi: 10.1109/LGRS.2022.3155651.
+- J. Chen, Z. Di, J. Shi, Q. Feng and Q. Wu, "NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2021.3137007.
+- Q. Xu, Y. Xiang, Z. Di et al., "Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4015905, doi: 10.1109/LGRS.2021.3097154.
+- Z. Shao et al., "A High-Throughput VLSI Architecture Design of Canonical Huffman Encoder," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 1, pp. 209-213, Jan. 2022, doi: 10.1109/TCSII.2021.3091611.
+- X. Chen, Z. Di, W. Wu, Q. Wu, J. Shi and Q. Feng, "Detailed Routing Short Violation Prediction Using Graph-Based Deep Learning Model," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 2, pp. 564-568, Feb. 2022, doi: 10.1109/TCSII.2021.3093420.
+- Q. Wu, X. Li, Y. Han, Z. Di and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.
+- X. Yan, Z. Di,  et al., "A High Throughput and Energy Efficient Lepton Hardware Encoder with Hash-based Memory Optimization," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3129895.
+- Q. Wu, X. Li, Y. Li, Z. Di and Q. Feng, "Implementation of High Precision Error Amplification Scheme for AC-DC Converter," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1522-1526, March 2022, doi: 10.1109/TCSII.2021.3126166.
+
+
+3.MOOC课程详细信息(配套slides下载等)
 ---  
 
 - 提示：如果github网站访问速度较慢，可以访问gitee的主页，方便下载课件；[gitee主页](https://customizablecomputinglab.gitee.io)。
@@ -60,13 +72,13 @@
 - [RV-SoC Design Methodology Based on T-Head E902](./class5)
 
 
-3.线下承担课程教学工作
+4.线下承担课程教学工作
 ---  
 
 - [详细信息](./class3)
 
 
-4.学科竞赛作品
+5.学科竞赛作品
 ---
 
 陆续开源中...：
@@ -86,7 +98,7 @@
 - 2020年，“2020第二届集成电路EDA设计精英挑战赛” 中“赛题八：FPGA布局合法化问题”全国一等奖，[讲解视频](https://www.nicu.cn/practiceCourseDetails?area=1&type=0&id=9&choiceOrder=2) 
 - 2020年，“2020第二届集成电路EDA设计精英挑战赛” 中“赛题四：时序模块驱动冲突的检查”全国一等奖，[讲解视频](https://www.nicu.cn/practiceCourseDetails?area=1&type=0&id=36&choiceOrder=2) 
 
-5.科研工作
+6.科研工作
 ---  
 - [科研详情请戳此链接](./research)
 
@@ -100,16 +112,16 @@
  - [请加关注教师微信公众号“硬件加速与EDA”，下载MOOC课程课件与习题答案]   
    ![课程图片]( ./HA_EDA.webp) 
 
-6.技术科普与解读
+7.技术科普与解读
 ---
 - [视频与文章](./tech_paper)
 
 
-7.芯片设计笔试题与面试题（持续收集与更新...）
+8.芯片设计笔试题与面试题（持续收集与更新...）
 ---
 - [详情请戳此链接](./examination)
   
-8.招生要求（不一定满足，但是偏好有如下经历的学生）
+9.招生要求（不一定满足，但是偏好有如下经历的学生）
 ---
 - 数字芯片设计与硬件加速方向：熟悉VerilogHDL/HLS/Chisel等；喜欢或者熟悉数字芯片设计流程、FPGA、嵌入式系统；如有全国大学生集成电路创新创业大赛、嵌入式大赛、FPGA大赛、电子设计大赛等等相关比赛获奖经历更好。
 - EDA算法方向：熟悉C/C++等；熟悉数据结构和常用算法等；如有数学建模大赛、EDA精英挑战赛、全国大学生集成电路创新创业大赛算法题目等算法相关比赛获奖经历更好。  
