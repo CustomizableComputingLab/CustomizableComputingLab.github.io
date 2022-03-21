@@ -50,16 +50,16 @@
 
 2.代表性论文
 ---
-
-- **Z. Di**, X. Chen, Q. Wu, J. Shi, Q. Feng and Y. Fan, "Learned Compression Framework With Pyramidal Features and Quality Enhancement for SAR Images," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4505605, doi: 10.1109/LGRS.2022.3155651.
-- J. Chen, **Z. Di**, J. Shi, Q. Feng and Q. Wu, "NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2021.3137007.
-- Q. Xu, Y. Xiang, **Z. Di** et al., "Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4015905, doi: 10.1109/LGRS.2021.3097154.
-- Z. Shao,**Z. Di**, et al., "A High-Throughput VLSI Architecture Design of Canonical Huffman Encoder," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 1, pp. 209-213, Jan. 2022, doi: 10.1109/TCSII.2021.3091611.
-- X. Chen, **Z. Di**, W. Wu, Q. Wu, J. Shi and Q. Feng, "Detailed Routing Short Violation Prediction Using Graph-Based Deep Learning Model," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 2, pp. 564-568, Feb. 2022, doi: 10.1109/TCSII.2021.3093420.
-- Q. Wu, X. Li, Y. Han, **Z. Di** and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.
-- X. Yan, **Z. Di**,  et al., "A High Throughput and Energy Efficient Lepton Hardware Encoder with Hash-based Memory Optimization," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3129895.
-- Q. Wu, X. Li, Y. Li, **Z. Di** and Q. Feng, "Implementation of High Precision Error Amplification Scheme for AC-DC Converter," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1522-1526, March 2022, doi: 10.1109/TCSII.2021.3126166.
-- **Zhixiong Di**, Yongming Tang, Jiahua Lu, Zhaoyang Lv:ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board. ACM Great Lakes Symposium on VLSI 2021: 431-436. (教学研究论文)
+- Jing Mai, **Zhixiong Di**, Yibo Lin, "Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility," in DAC 2022(accept).(CCF-A)
+- **Z. Di**, X. Chen, Q. Wu, J. Shi, Q. Feng and Y. Fan, "Learned Compression Framework With Pyramidal Features and Quality Enhancement for SAR Images," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4505605, doi: 10.1109/LGRS.2022.3155651.(JCR Q2)
+- J. Chen, **Z. Di**, J. Shi, Q. Feng and Q. Wu, "NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2021.3137007.(CCF-A)
+- Q. Xu, Y. Xiang, **Z. Di** et al., "Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4015905, doi: 10.1109/LGRS.2021.3097154.(JCR Q2)
+- Z. Shao,**Z. Di**, et al., "A High-Throughput VLSI Architecture Design of Canonical Huffman Encoder," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 1, pp. 209-213, Jan. 2022, doi: 10.1109/TCSII.2021.3091611.(JCR Q2)
+- X. Chen, **Z. Di**, W. Wu, Q. Wu, J. Shi and Q. Feng, "Detailed Routing Short Violation Prediction Using Graph-Based Deep Learning Model," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 2, pp. 564-568, Feb. 2022, doi: 10.1109/TCSII.2021.3093420.(JCR Q2)
+- Q. Wu, X. Li, Y. Han, **Z. Di** and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.(JCR Q1)
+- X. Yan, **Z. Di**,  et al., "A High Throughput and Energy Efficient Lepton Hardware Encoder with Hash-based Memory Optimization," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3129895.(JCR Q1)
+- Q. Wu, X. Li, Y. Li, **Z. Di** and Q. Feng, "Implementation of High Precision Error Amplification Scheme for AC-DC Converter," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1522-1526, March 2022, doi: 10.1109/TCSII.2021.3126166.(JCR Q2)
+- **Zhixiong Di**, Yongming Tang, Jiahua Lu, Zhaoyang Lv:ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board. ACM Great Lakes Symposium on VLSI 2021: 431-436. (教学研究论文)(CCF-C)
 
 
 3.MOOC课程详细信息(配套slides下载等)
@@ -131,7 +131,7 @@
 
 - 已毕业本科生
     - 2021届：刘已秋，国产EDA 奥卡思微电子（SSP Offer）；徐启涵、向云帆，保送中科院读研；孔欣杰、文源，保送复旦大学读研；李怡霏，保送上海科技大学读研；陈林、马晓宝，保送西南交通大学读研；林文迪，西南交通大学读研。
-    - 2020届：林思成，工作去向：紫光同创公司，FPGA应用工程师。陈旋、邵桢瑜、陈卓，保送西南交通大学。- 
+    - 2020届：林思成，工作去向：紫光同创公司，FPGA应用工程师。陈旋、邵桢瑜、陈卓，保送西南交通大学。 
     - 2019届：陈锦炜，保送西南交通大学；吕征阳，保送中科院计算所直博；孙齐伟，保送西安交通大学读研；彭辰曦（保送电子科技大学读研）、田冠（保送天津大学读研）、张曼钰（保送电子科技大学读研）、陈俊甫（记忆科技，SoC验证工程师）；
     - 2018届：余丹明，华为海思，SoC验证工程师；孙华杰，保送清华大学微电子研究所读研；吴伟，保送西南交通大学；黄萍，保送电子科技大学；李林涛，保送西安电子科技大学；李斌，保送电子科技大学读研；史昊， 保送天津大学读研。
     - 2017届：陈迪贝（保送清华大学微电子研究所直博生）、邓家宁（保送浙江大学读研）、黄翔（保送东南大学读研）、姚梦云（保送东南大学读研）、叶帅（保送西南交通大学读研）、李福强（中国科学院微电子研究所读研）、刘彤阳（公司：今日头条，软件工程师）、张伟淦（公司：智锐科技，数字IC设计工程师）、徐垚（美国伊利诺伊大学UIUC读研）
