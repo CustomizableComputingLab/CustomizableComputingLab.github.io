@@ -2,8 +2,7 @@
 ---
 - 作为主要研发人员，深度参与完成了我国首颗宇航级高速图像压缩芯片“雅芯-天图”，芯片采用0.18μm宇航抗辐照工艺，于2018年成功应用于我国目前最高分辨率的高分十一号卫星遥感卫星、“嫦娥系列”探月卫星、“天舟一号”货运飞船等。
 - 研究高性能图像压缩编解码算法与硬件加速器， 重点包括JPEG、JPEG2000、Lepton、Guetzli等。与复旦大学ASIC国家重点实验室、阿里巴巴合作提出了优化Huffman、基于主观视觉质量的压缩编码、基于AI的压缩编码算法及其硬件加速器。参与复旦大学ASIC重点实验室范益波教授主持的项目“基于硬件的JPEG无损编码及转码系统项目”荣获阿里巴巴创新研究计划优秀学术项目奖！ [项目合作方：复旦大学ASIC国家重点实验室、阿里巴巴]
-- 基于神经网络的SAR图像压缩：工作“Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder”被IEEE Geoscience Remote Sensing Letters录用。
-![实例图片](./SAR_compression.webp)
+
 
 2.科研概况：基于AI的数字芯片与FPGA物理实现算法
 ---
