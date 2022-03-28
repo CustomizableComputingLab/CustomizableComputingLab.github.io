@@ -6,6 +6,7 @@ ASIC/SoC Design前端设计
 - [ASIC Design](./pdf_list/timing-analysis.pdf)
 - [乐鑫-ASIC Design-2020](./pdf_list/乐鑫-2020.pdf) 
 - [大疆-2020](./pdf_list/大疆-2020.pdf) 
+- [STA-1](./pdf_list/STA-1.pdf) 
 
 
 ASIC/SoC Physical Implementation后端实现
