@@ -5,6 +5,7 @@ ASIC/SoC Design前端设计
 - [NVIDIA-ASIC Design](./pdf_list/NVIDIA-ASICDesign.pdf) 
 - [ASIC Design](./pdf_list/timing-analysis.pdf)
 - [乐鑫-ASIC Design-2020](./pdf_list/乐鑫-2020.pdf) 
+- [大疆-2020](./pdf_list/大疆-2020.pdf) 
 
 
 ASIC/SoC Physical Implementation后端实现
