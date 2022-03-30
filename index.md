@@ -30,38 +30,38 @@
 - 2022.03，祝贺实验室3位同学荣获“信息科学与技术学院研究生提升基金”。
 ![获奖图片](./image/reward-stu-202003.jpg)
 - 2022.02，祝贺B站“讲芯片的邸老师”粉丝突破1万人。
-- 2022.02，祝贺陈旋同学的工作"Learned Compression Framework with Pyramidal Features and Quality Enhancement for SAR images"被IEEE GRSL录用。
-- 2021.12，祝贺两组同学在“2021第三届集成电路EDA设计精英挑战赛”新思科技2.5D布局算法赛道、国微multi-patterning DRC检测算法赛道荣获两项全国二等奖！祝贺锦炜同学因以去年安路科技赛道第一名作品为基础投稿IEEE TCAD（EDA领域顶级期刊）被录用论文，荣获大赛首次颁发的“学术进取奖”。有幸因连续三届指导学生获奖，被授予“EDA精心育人奖”。有幸因担任安路赛题chair，被授予“专业贡献奖”。感谢EDA精英挑战赛组委会！
-- 2021.12，祝贺陈锦炜同学的工作"NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design"被IEEE TCAD录用。
+- 2022.02，祝贺实验室研二陈旋同学的工作"Learned Compression Framework with Pyramidal Features and Quality Enhancement for SAR images"被IEEE GRSL录用。
+- 2021.12，祝贺实验室两组研究生同学在“2021第三届集成电路EDA设计精英挑战赛”新思科技2.5D布局算法赛道、国微multi-patterning DRC检测算法赛道荣获两项全国二等奖！祝贺锦炜同学因以去年安路科技赛道第一名作品为基础投稿IEEE TCAD（EDA领域顶级期刊）被录用论文，荣获大赛首次颁发的“学术进取奖”。有幸因连续三届指导学生获奖，被授予“EDA精心育人奖”。有幸因担任安路赛题chair，被授予“专业贡献奖”。感谢EDA精英挑战赛组委会！
+- 2021.12，祝贺实验室研三陈锦炜同学的工作"NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design"被IEEE TCAD录用。
 - 2021.12，《基于玄铁CPU与无剑SoC的芯片设计与应用产教融合精品慕课建设》课程体系改革项目成功入选2021年度教育部产学合作协同育人优秀项目案例。
-- 2021.09，10月31日，全国大学生嵌入式芯片与系统设计竞赛全国总决赛成功在线上举办。我校信息科学与技术学院参赛队伍作品“海洋生物声学分类SoC芯片设计”（指导教师邸志雄；队员范峻凌、黄亦成、廖才进）在总决赛中发挥出色，荣获“芯片设计赛道”本科生组全国唯一的一等奖，并获“芯来科技杯”企业大奖。
-- 2021.09，荣获“立德树人”先进个人：“教书育人”新秀奖！
+- 2021.09，10月31日，全国大学生嵌入式芯片与系统设计竞赛全国总决赛成功在线上举办。我校信息科学与技术学院参赛队伍作品“海洋生物声学分类SoC芯片设计”（指导教师邸志雄；队员范峻凌、黄亦成、廖才进）在总决赛中发挥出色，荣获“芯片设计赛道”本科生组全国唯一的一等奖，并获“芯来科技杯”企业大奖。祝贺实验室本科生范峻凌、黄亦成同学！
+- 2021.09，邸志雄老师荣获西南交通大学“立德树人”先进个人：“教书育人”新秀奖！
 - 2021.08，第五届全国大学生集成电路创新创业大赛中，指导学生荣获 1 项特等奖、2 项一等奖、2 项三等奖！
   ![集创赛2021获奖](./icdesign_contest.jpg)
-- 2021.06，祝贺两位本科生徐启涵、向云帆同学的工作“Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder”被IEEE Geoscience Remote Sensing Letters录用！
-- 2021.06，祝贺两位毕业的同学：祝贺硕士生吴伟同学（SP Offer）加入华为海思，祝贺本科生刘已秋同学（SSP Offer）加入国产EDA公司奥卡思微电子！
+- 2021.06，祝贺实验室两位本科生徐启涵、向云帆同学的工作“Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder”被IEEE Geoscience Remote Sensing Letters录用！
+- 2021.06，祝贺实验室两位毕业的同学：祝贺硕士生吴伟同学（SP Offer）加入华为海思，祝贺本科生刘已秋同学（SSP Offer）加入国产EDA公司奥卡思微电子！
 - 2021.06，祝贺指导的本科生顺利通过答辩！  
   ![毕业设计]( ./stu_defense.jpg)
-- 2021.06，祝贺陈旋、吴伟同学的工作“Detailed Routing Short Violation Prediction Using Graph-based Deep Learning Model”被TCAS2录用！文章提出了一种布局阶段基于GNN的routability预测模型，能够在小规模数据集上实现目前最强的泛化能力。
-- 2021.06，荣获2021年“阿里云MVP”！
+- 2021.06，祝贺实验室研一陈旋、研三吴伟同学的工作“Detailed Routing Short Violation Prediction Using Graph-based Deep Learning Model”被TCAS2录用！文章提出了一种布局阶段基于GNN的routability预测模型，能够在小规模数据集上实现目前最强的泛化能力。
+- 2021.06，邸志雄老师荣获2021年“阿里云MVP”！
   ![MVP]( ./ali_mvp.jpg)
-- 2021.06，祝贺邵桢瑜同学的工作"A High-Throughput VLSI Architecture Design Of Canonical Huffman Encoder"被IEEE TCAS2录用。
+- 2021.06，祝贺实验室研一邵桢瑜同学的工作"A High-Throughput VLSI Architecture Design Of Canonical Huffman Encoder"被IEEE TCAS2录用。
 - 2021.04，教学论文“ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board”被微电子与集成电路领域知名国际学术会议“2021 31th ACM Great Lakes Symposium on VLSI”(CCF-C)录用（Oral Report; Panel 嘉宾）。该论文系西南交大微电子学科首次在集成电路国际学术会议展示教学成果。该论文相关教学改革工作被“电子学报”官网首页头条报道（2021.5.30）、被中国电子电子学会官网、“电子学报”公众号、“中国电子学会”公众号报道。
   ![JCE]( ./JCE.jpg)
-- 2021.01.12，荣获2020年“詹天佑铁道科学技术奖”之“教书育人”专项奖！
+- 2021.01.12，邸志雄老师荣获2020年“詹天佑铁道科学技术奖”之“教书育人”专项奖！
 - 2020.12.06，祝贺研一陈卓同学的作品“基于Xilinx DPU的芯片表面缺陷检测硬件加速系统”荣获“2020第四届全国大学生FPGA创新设计竞赛”全国二等奖！  
 ![获奖图片](./image/2020FPGA创新设计竞赛-二等奖-陈卓.webp)
 - 2020.12.01，第二届EDA精英挑战赛圆满落幕，作为国内水平最高的EDA算法竞赛，本次竞赛得到了几乎国内所有EDA公司、国际三大EDA巨头、国产FPGA公司安路、华为海思的支持，硕博参赛比例接近80%！祝贺本实验室学生获得两项一等奖！1.研二学生陈锦炜带领两位大四师妹，荣获FPGA  CAD赛道(命题公司安路科技)第一名，团队提出一种新的FPGA布局合法化算法，在10个benchmark中9个排名第1、1个排名第二，以高出第二名接近15分(百分制)的巨大优势获得赛题冠军；锦炜同学继2019年后再获一项一等奖。2.大四学生刘已秋以一人之力，获得Verilog多驱动解析赛道(命题公司芯华章)一等奖，其中算法benchmark测试为仅有的两支满分队伍之一，笔试成绩第一。感谢大赛组委会！！ 
 ![获奖图片](./image/2020EDA精英挑战赛一等奖-陈锦炜.webp)
 ![获奖图片](./image/2020EDA精英挑战赛一等奖-刘已秋.webp)
-- 2020.11.03，祝贺硕士生陈旋提出的“Detailed Routing Short Violations Prediction Method Using Graph Neural Network”和陈锦炜提出的“An Enhanced Heuristic Layer Assignment Method in Global Routing”在ICSICT2020做口头汇报！
-- 2020.10.30，祝贺本科生刘已秋同学加入国产知名EDA公司奥卡思微电子！
-- 2020.10.13，祝贺硕士生邵桢瑜同学“JPEG图像编解码FPGA系统”荣获中国研究生“创芯”大赛企业杯二等奖！
-- 2020.09.01，祝贺硕士生陈锦炜同学关于FPGA布线算法的作品荣获“复微杯电子设计竞赛”优秀奖！  
+- 2020.11.03，祝贺实验室研一陈旋（论文接收时为大四）提出的“Detailed Routing Short Violations Prediction Method Using Graph Neural Network”和陈锦炜提出的“An Enhanced Heuristic Layer Assignment Method in Global Routing”在ICSICT2020做口头汇报！
+- 2020.10.30，祝贺实验室本科生刘已秋同学加入国产知名EDA公司奥卡思微电子！
+- 2020.10.13，祝贺实验室研一硕士生邵桢瑜同学“JPEG图像编解码FPGA系统”荣获中国研究生“创芯”大赛企业杯二等奖！
+- 2020.09.01，祝贺实验室研二硕士生陈锦炜同学关于FPGA布线算法的作品荣获“复微杯电子设计竞赛”优秀奖！  
 - 2020.08.23，祝贺与复旦大学ASIC重点实验室范益波教授合作的项目“基于硬件的JPEG无损编码及转码系统项目”荣获阿里巴巴创新研究计划优秀学术项目奖！  
 - 2020.08.23，祝贺2017级本科生马晓宝同学、陈春晖同学、徐新权同学荣获2020年“第四届全国大学生集成电路创新创业大赛” 全国一等奖，并摘得大赛最高奖项“RISC-V挑战杯”（等同特等奖，仅颁发给一等奖第一名）！  
-- 2020.07.21，祝贺2017级本科生马晓宝同学与陈春晖同学荣获2020年“第四届全国大学生集成电路创新创业大赛”西南赛区一等奖，并入围全国总决赛！  
-- 2020.07.17，祝贺2016级本科生林思成同学入职国产FPGA顶尖公司“紫光同创”！
+- 2020.07.21，祝贺实验室2017级本科生马晓宝同学与陈春晖同学荣获2020年“第四届全国大学生集成电路创新创业大赛”西南赛区一等奖，并入围全国总决赛！  
+- 2020.07.17，祝贺实验室2016级本科生林思成同学入职国产FPGA顶尖公司“紫光同创”！
 
 2.代表性论文
 ---
