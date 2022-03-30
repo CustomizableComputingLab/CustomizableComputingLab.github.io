@@ -65,7 +65,7 @@
 
 2.代表性论文
 ---
-- Jing Mai, **Zhixiong Di**, Yibo Lin, "Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility," in DAC 2022(accept).(CCF-A)
+- Jing Mai, Yibai Meng, **Zhixiong Di**, Yibo Lin, "Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility," in DAC 2022(accept).(CCF-A)
 - **Z. Di**, X. Chen, Q. Wu, J. Shi, Q. Feng and Y. Fan, "Learned Compression Framework With Pyramidal Features and Quality Enhancement for SAR Images," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4505605, doi: 10.1109/LGRS.2022.3155651.(JCR Q2)
 - J. Chen, **Z. Di**, J. Shi, Q. Feng and Q. Wu, "NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2021.3137007.(CCF-A)
 - Q. Xu, Y. Xiang, **Z. Di** et al., "Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4015905, doi: 10.1109/LGRS.2021.3097154.(JCR Q2)
