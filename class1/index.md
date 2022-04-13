@@ -230,6 +230,7 @@ RTL练习题
 
  [RTL TEST1](./test/RTL_TEST.zip)  
  [RTL TEST2](./test2/test2.zip)
+ [RTL TEST3](./test3/test_student.zip)
 
 
 参考网站
