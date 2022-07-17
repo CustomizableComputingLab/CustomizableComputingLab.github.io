@@ -61,7 +61,7 @@ RV-SoC Design Methodology Based on T-Head E902
 
 **资料下载**  
 
-[1.实验操作手册：实验案例新增适配澎峰科技Perf-V开发板](./Pref-V-MOOC.pdf)   
+[1.实验操作手册：基于Perf-V开发板的手把手教学案例](./Pref-V-MOOC.pdf)   
 [2.实验手册：Perf-V开发板手册](./perfv_artix7.pdf)  
 [3.实验手册：Perf-V开发板MicroSD转接方式](./micro_sd.pdf)  
 
