@@ -58,6 +58,9 @@ RV-SoC Design Methodology Based on T-Head E902
 - 如何使用“无剑100 SoC”读写SD卡  
 - 如何给“无剑100 SoC”移植RTT Nano操作系统  
 - 如何给“无剑100 SoC”的总线挂载硬核IP  
+
+资料下载  
+---
 [1.实验操作手册：实验案例新增适配澎峰科技Perf-V开发板](./Pref-V-MOOC.pdf)   
 [2.实验手册：Perf-V开发板手册](./perfv_artix7.pdf)  
 [3.实验手册：Perf-V开发板MicroSD转接方式](./micro_sd.pdf)  
