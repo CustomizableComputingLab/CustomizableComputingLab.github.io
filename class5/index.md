@@ -59,8 +59,8 @@ RV-SoC Design Methodology Based on T-Head E902
 - 如何给“无剑100 SoC”移植RTT Nano操作系统  
 - 如何给“无剑100 SoC”的总线挂载硬核IP  
 
-资料下载  
----
+**资料下载**  
+
 [1.实验操作手册：实验案例新增适配澎峰科技Perf-V开发板](./Pref-V-MOOC.pdf)   
 [2.实验手册：Perf-V开发板手册](./perfv_artix7.pdf)  
 [3.实验手册：Perf-V开发板MicroSD转接方式](./micro_sd.pdf)  
@@ -99,6 +99,7 @@ RV-SoC Design Methodology Based on T-Head E902
 ---
 - 感谢阿里云、平头哥半导体有限公司、“教育部产学合作协同育人计划”对本课程的支持！
 - 感谢Digilent公司对本课程的支持！
+- 感澎峰科技对本课程的支持！
 
 **返回教师主页**
 ---
