@@ -48,6 +48,27 @@ RV-SoC Design Methodology Based on T-Head E902
 [7.跟我一起写makefile](https://blog.csdn.net/xiaoshuai537/article/details/79340153)  
 
 
+**澎峰科技Pref-V开发板移植案例**
+---
+实验案例已新增适配澎峰科技Perf-V 开发板（A7-50T）。除之前课程所使用的Digilent Nexy Vedio（A7-200T）之外，同学们又有了一个价廉物美的选择。Perf-V 开发板是澎峰科技为RISC-V开源社区设计的FPGA开发板，为RVBoards开源硬件之一。RVBoards除了Perf-V系列之外，还有RISC-V SoC芯片开发板系列。RVBoards已移植Debian、Fedora系统，搭载OpenBLAS，RVCL等RISC-V计算库，以及OpenPPL、NCNN等轻量级AI推理框架。Perf-V集成了各种外设芯片，提供多种接口，具备强大的灵活性，成功的移植了多种RISC-V处理器架构，并配备了丰富的学习资料，为RISC-V处理器设计和FPGA产品开发提供了良好的实验平台。  
+本课程适配的Perf-V 开发板FPGA型号是Xilinx XC7A50T。鉴于A7 50T FPGA的硬件逻辑资源有限，本次适配工作完成了除“无剑100 SoC与Softmax硬件加速IP集成”之外的所有案例，重点包括：
+- 如何仿真“无剑100 SoC”的RTL源代码  
+- 如何在Xilinx XC7A50T FPGA上完成“无剑100 SoC”的部署  
+- 如何配置“无剑100 SoC”的I/O  
+- 如何使用“无剑100 SoC”读写SD卡  
+- 如何给“无剑100 SoC”移植RTT Nano操作系统  
+- 如何给“无剑100 SoC”的总线挂载硬核IP  
+[1.实验操作手册：实验案例新增适配澎峰科技Perf-V开发板](./Pref-V-MOOC.pdf) 
+[2.实验手册：Perf-V开发板手册](./perfv_artix7.pdf)
+[3.实验手册：Perf-V开发板MicroSD转接方式](./micro_sd.pdf)
+
+
+**玄铁E902在Nexys-n4-ddr（100T）移植案例**
+---
+[Verimake成功将玄铁E902与无剑100 SoC移植到Digilent Nexys100T开发板，可给同学们学习RISC-V、FPGA提供更丰富的学习资源。访问可戳此链接](https://verimake.com/d/10-wujian100nexys-4-ddr)
+
+
+
 
 **平头哥开源工程**
 ---
