@@ -11,7 +11,7 @@
 2.研究方向：超大规模芯片物理实现算法
 ---
 ![图片](EDA1.webp)   
-![图片](EDA1.webp)   
+![图片](EDA2.webp)   
 
 - 聚焦布局布线、时序分析、AI4EDA等，在IEEE TCAD’22 (领域TOP期刊、唯一CCF-A 期刊)、IEEE/ACM DAC’22(CCF-A，领域TOP会议)、IEEE TCAS-Ⅱ’22(JCR Q2) 等发表多篇学术论文。  
 - 荣获国内多个EDA算法竞赛的全国一等奖。  
