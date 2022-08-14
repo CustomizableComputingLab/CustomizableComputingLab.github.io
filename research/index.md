@@ -5,7 +5,7 @@
 - 研究成果发表在IEEE TCAS-Ⅱ(JCR Q2) 、IEEE TCSVT(JCR Q1) 等期刊。  
 - 10Gbps网络处理器芯片[项目合作方：西安电子科技大学宽带隙半导体国家重点学科实验室]   
 ![图片](./research/im-com-1.JPG)  
-![图片](./research/im-com-2.JPG)  
+![图片](./research/im-com-2.JPG)    
 
 2.研究方向：超大规模芯片物理实现算法
 ---
@@ -13,7 +13,9 @@
 - 荣获国内多个EDA算法竞赛的全国一等奖。  
 - 凝练学术成果，助力中国“芯”：安路科技(民用国产FPGA领军企业)、航天九院、华为2012诺亚实验室(全球顶尖芯片设计研发机构)开展深入合作。 
 ![图片](./research/EDA-1.JPG)  
-![图片](./research/EDA-2.JPG)
+![图片](./research/EDA-2.JPG)  
+
+
 3.代表性论文
 ---
 - Jing Mai, Yibai Meng, **Zhixiong Di**, Yibo Lin, "Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility," in DAC 2022(accept).(CCF-A)
