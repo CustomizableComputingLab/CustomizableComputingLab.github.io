@@ -21,3 +21,8 @@ ASIC/SoC Physical Implementation后端实现
 - [verisilicon-APR-1](./pdf_list/verisilicon-APR-1.pdf)  
 - [verisilicon-APR-2](./pdf_list/verisilicon-APR-2.pdf)   
 - [verisilicon-APR-3](./pdf_list/verisilicon-APR-3.pdf) 
+
+
+**返回教师主页**
+---
+[个人主页](http://www.dizhixiong.cn/)
