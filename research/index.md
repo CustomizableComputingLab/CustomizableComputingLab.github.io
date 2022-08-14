@@ -4,17 +4,16 @@
 - 研究高性能图像压缩编解码算法与硬件加速器， 重点包括JPEG、JPEG2000、Lepton、Guetzli等。参与复旦大学ASIC重点实验室范益波教授主持的项目“基于硬件的JPEG无损编码及转码系统项目”荣获阿里巴巴创新研究计划优秀学术项目奖！ [项目合作方：复旦大学ASIC国家重点实验室、阿里巴巴]  
 - 研究成果发表在IEEE TCAS-Ⅱ(JCR Q2) 、IEEE TCSVT(JCR Q1) 等期刊。  
 - 10Gbps网络处理器芯片[项目合作方：西安电子科技大学宽带隙半导体国家重点学科实验室]  
-![图片](./research/im-com-1.jpg)  
-![图片](./research/im-com-2.jpg)  
+![图片](./research/im-com-1.JPG)  
+![图片](./research/im-com-2.JPG)  
 
 2.研究方向：超大规模芯片物理实现算法
 ---
 - 聚焦布局布线、时序分析、AI4EDA等，在IEEE TCAD’22 (领域TOP期刊、唯一CCF-A 期刊)、IEEE/ACM DAC’22(CCF-A，领域TOP会议)、IEEE TCAS-Ⅱ’22(JCR Q2) 等发表多篇学术论文。  
 - 荣获国内多个EDA算法竞赛的全国一等奖。  
 - 凝练学术成果，助力中国“芯”：安路科技(民用国产FPGA领军企业)、航天九院、华为2012诺亚实验室(全球顶尖芯片设计研发机构)开展深入合作。 
-![图片](./research/EDA-1.jpg)  
-![图片](./research/EDA-2.jpg)   
-
+![图片](./research/EDA-1.JPG)  
+![图片](./research/EDA-2.JPG
 3.代表性论文
 ---
 - Jing Mai, Yibai Meng, **Zhixiong Di**, Yibo Lin, "Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility," in DAC 2022(accept).(CCF-A)
