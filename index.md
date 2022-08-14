@@ -7,11 +7,11 @@
 首页目录
 ---
 1.新闻  
-2.代表性论文  
+2.科研与代表性论文  
 3.MOOC课程详细信息(配套slides下载等)  
 4.线下承担课程教学工作  
 5.学科竞赛获奖  
-6.科研工作  
+6.联系方式  
 7.技术科普与解读  
 8.芯片设计笔试题与面试题（持续收集与更新...）  
 9.招生要求  
@@ -70,18 +70,9 @@
 - 2020.07.21，祝贺实验室2017级本科生马晓宝同学与陈春晖同学荣获2020年“第四届全国大学生集成电路创新创业大赛”西南赛区一等奖，并入围全国总决赛！  
 - 2020.07.17，祝贺实验室2016级本科生林思成同学入职国产FPGA顶尖公司“紫光同创”！
 
-2.代表性论文
+2.科研与代表性论文
 ---
-- Jing Mai, Yibai Meng, **Zhixiong Di**, Yibo Lin, "Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility," in DAC 2022(accept).(CCF-A)
-- **Z. Di**, X. Chen, Q. Wu, J. Shi, Q. Feng and Y. Fan, "Learned Compression Framework With Pyramidal Features and Quality Enhancement for SAR Images," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4505605, doi: 10.1109/LGRS.2022.3155651.(JCR Q2)
-- J. Chen, **Z. Di**, J. Shi, Q. Feng and Q. Wu, "NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2021.3137007.(CCF-A)
-- Q. Xu, Y. Xiang, **Z. Di** et al., "Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4015905, doi: 10.1109/LGRS.2021.3097154.(JCR Q2)
-- Z. Shao,**Z. Di**, et al., "A High-Throughput VLSI Architecture Design of Canonical Huffman Encoder," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 1, pp. 209-213, Jan. 2022, doi: 10.1109/TCSII.2021.3091611.(JCR Q2)
-- X. Chen, **Z. Di**, W. Wu, Q. Wu, J. Shi and Q. Feng, "Detailed Routing Short Violation Prediction Using Graph-Based Deep Learning Model," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 2, pp. 564-568, Feb. 2022, doi: 10.1109/TCSII.2021.3093420.(JCR Q2)
-- Q. Wu, X. Li, Y. Han, **Z. Di** and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.(JCR Q1)
-- X. Yan, **Z. Di**,  et al., "A High Throughput and Energy Efficient Lepton Hardware Encoder with Hash-based Memory Optimization," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3129895.(JCR Q1)
-- Q. Wu, X. Li, Y. Li, **Z. Di** and Q. Feng, "Implementation of High Precision Error Amplification Scheme for AC-DC Converter," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1522-1526, March 2022, doi: 10.1109/TCSII.2021.3126166.(JCR Q2)
-- **Zhixiong Di**, Yongming Tang, Jiahua Lu, Zhaoyang Lv:ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board. ACM Great Lakes Symposium on VLSI 2021: 431-436. (教学研究论文)(CCF-C)
+- [科研详情请戳此链接](./research)
 
 
 3.MOOC课程详细信息(配套slides下载等)
@@ -114,10 +105,8 @@
 - 2020年，“2020第二届集成电路EDA设计精英挑战赛” 中“赛题八：FPGA布局合法化问题”全国一等奖，[讲解视频](https://www.nicu.cn/practiceCourseDetails?area=1&type=0&id=9&choiceOrder=2) 
 - 2020年，“2020第二届集成电路EDA设计精英挑战赛” 中“赛题四：时序模块驱动冲突的检查”全国一等奖，[讲解视频](https://www.nicu.cn/practiceCourseDetails?area=1&type=0&id=36&choiceOrder=2) 
 
-6.科研工作
+6.联系方式
 ---  
-- [科研详情请戳此链接](./research)
-
 - [邮箱：zxdi@home.swjtu.edu.cn]
 - [请加教师微信，加入课程微信群]  
 
