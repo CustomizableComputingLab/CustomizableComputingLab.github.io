@@ -6,7 +6,9 @@
 [课程主页，课程视频请戳此链接](https://www.icourse163.org/course/SWJTU-1207492806)。
 - 中国大学MOOC平台，免费注册学习！练习、作业、考试题请见“中国大学MOOC”。
 - 教师可以联系邮箱zxdi@home.swjtu.edu.cn获取课程所有作业参考答案。  
-- 如果VerilogHDL基础较薄弱，建议课前在B站学习《从电路设计的角度入门VerilogHDL》[请戳此链接观看](https://www.bilibili.com/video/BV1PS4y1s7XW?spm_id_from=333.999.0.0&vd_source=11e1c053bd139ab5a2798c3f31d057df)。
+- 如果VerilogHDL基础较薄弱，建议课前在B站学习《从电路设计的角度入门VerilogHDL》[请戳此链接观看](https://www.bilibili.com/video/BV1PS4y1s7XW?spm_id_from=333.999.0.0&vd_source=11e1c053bd139ab5a2798c3f31d057df)。  
+
+![课程图片](./MOOC.jpg)
 
 
 
