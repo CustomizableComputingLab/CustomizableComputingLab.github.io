@@ -77,8 +77,6 @@
 3.MOOC课程详细信息(配套slides下载等)
 ---  
 
-- 提示：如果github网站访问速度较慢，可以访问gitee的主页，方便下载课件；[gitee主页](https://customizablecomputinglab.gitee.io)。
-
 - [中国大学MOOC平台：芯动力——硬件加速设计方法](./class1)
 
 - [B站：数字集成电路静态时序分析基础](./class2)
