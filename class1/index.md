@@ -239,7 +239,7 @@ Bhasker, Rakesh Chadha. Springer.2009. Chapter 8.
 
 AMD-Xilinx远程在线实验室访问和使用说明
 ---
-[使用说明文档](./PYNQ_Lab.pdf)    
+[使用说明文档](./PYNQ_Lab.zip)    
 [除上述文字操作说明外，还可点击链接观看“PYNQ开源社区”的视频演示](https://mp.weixin.qq.com/s/XIiahAyyo8SrrnIpTfBxDw)   
 
 
