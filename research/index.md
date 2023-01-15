@@ -28,9 +28,9 @@
 - J. Chen, Z. Di(*), J. Shi, Q. Feng and Q. Wu, "NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 41, no. 11, pp. 4681-4693, Nov. 2022.(CCF-A)
 - Jing Mai, Yibai Meng, Zhixiong Di, and Yibo Lin. 2022. Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and clock feasibility. In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC’22). Association for Computing Machinery, New York, NY, USA, 649–654. https://doi.org/10.1145/3489517.3530568.(CCF-A)
 - X. Yan, Z. Di, et al., "A High Throughput and Energy Efficient Lepton Hardware Encoder With Hash-Based Memory Optimization," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 7, pp. 4680-4695, July 2022. (JCR Q1)
-- Q. Wu, X. Li, Y. Han, **Z. Di** and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.(JCR Q1)
-- Q. Wu, X. Li, Y. Li, **Z. Di** and Q. Feng, "Implementation of High Precision Error Amplification Scheme for AC-DC Converter," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1522-1526, March 2022, doi: 10.1109/TCSII.2021.3126166.(JCR Q2)
-- **Zhixiong Di**, Yongming Tang, Jiahua Lu, Zhaoyang Lv:ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board. ACM Great Lakes Symposium on VLSI 2021: 431-436. (教学研究论文)(CCF-C)
+- Q. Wu, X. Li, Y. Han, Z. Di and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.(JCR Q1)
+- Q. Wu, X. Li, Y. Li, Z. Di and Q. Feng, "Implementation of High Precision Error Amplification Scheme for AC-DC Converter," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1522-1526, March 2022, doi: 10.1109/TCSII.2021.3126166.(JCR Q2)
+- Zhixiong Di, Yongming Tang, Jiahua Lu, Zhaoyang Lv:ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board. ACM Great Lakes Symposium on VLSI 2021: 431-436. (教学研究论文)(CCF-C)
 
 
 
