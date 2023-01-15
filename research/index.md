@@ -21,11 +21,11 @@
 3.代表性论文
 ---
 
-- Q. Xu, Y. Xiang, Z. Di(*), et al., "Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4015905. (JCR Q2, IF 5.343)  
-- X. Chen, Z. Di(*), W. Wu, Q. Wu, J. Shi and Q. Feng, "Detailed Routing Short Violation Prediction Using Graph-based Deep Learning Model," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 2, pp. 564-568, Feb. 2022. (JCR Q2, IF 3.691)
-- Z. Shao, Z. Di(*), et al., "A High-Throughput VLSI Architecture Design Of Canonical Huffman Encoder," in IEEE Transactions on Circuits and Systems II: Express Briefs(TCAS-II), vol. 69, no. 1, pp. 209-213, Jan. 2022. (JCR Q2, IF 3.691)
-- Z. Di(*), X. Chen, Q. Wu, J. Shi, Q. Feng and Y. Fan, "Learned Compression Framework With Pyramidal Features and Quality Enhancement for SAR Images," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4505605.(JCR Q2, IF 5.343)
-- J. Chen, Z. Di(*), J. Shi, Q. Feng and Q. Wu, "NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 41, no. 11, pp. 4681-4693, Nov. 2022.(CCF-A, IF 2.565)
+- Q. Xu, Y. Xiang, Z. Di(*), et al., "Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4015905. (JCR Q1)  
+- X. Chen, Z. Di(*), W. Wu, Q. Wu, J. Shi and Q. Feng, "Detailed Routing Short Violation Prediction Using Graph-based Deep Learning Model," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 2, pp. 564-568, Feb. 2022. (JCR Q2)
+- Z. Shao, Z. Di(*), et al., "A High-Throughput VLSI Architecture Design Of Canonical Huffman Encoder," in IEEE Transactions on Circuits and Systems II: Express Briefs(TCAS-II), vol. 69, no. 1, pp. 209-213, Jan. 2022. (JCR Q2)
+- Z. Di(*), X. Chen, Q. Wu, J. Shi, Q. Feng and Y. Fan, "Learned Compression Framework With Pyramidal Features and Quality Enhancement for SAR Images," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4505605.(JCR Q1)
+- J. Chen, Z. Di(*), J. Shi, Q. Feng and Q. Wu, "NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 41, no. 11, pp. 4681-4693, Nov. 2022.(CCF-A)
 - Jing Mai, Yibai Meng, Zhixiong Di, and Yibo Lin. 2022. Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and clock feasibility. In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC’22). Association for Computing Machinery, New York, NY, USA, 649–654. https://doi.org/10.1145/3489517.3530568.(CCF-A)
 - X. Yan, Z. Di, et al., "A High Throughput and Energy Efficient Lepton Hardware Encoder With Hash-Based Memory Optimization," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 7, pp. 4680-4695, July 2022. (JCR Q1)
 - Q. Wu, X. Li, Y. Han, **Z. Di** and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.(JCR Q1)
