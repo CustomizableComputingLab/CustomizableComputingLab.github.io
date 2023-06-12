@@ -230,7 +230,7 @@ Bhasker, Rakesh Chadha. Springer.2009. Chapter 8.
 
 作业答案与解析 
 ---
-[教学内容](./MOOC_solutions_2023.pdf)
+[习题答案](./MOOC_solutions_2023.pdf)
 
 
 练习题
