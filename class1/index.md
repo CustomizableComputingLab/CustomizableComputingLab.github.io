@@ -228,6 +228,11 @@ Bhasker, Rakesh Chadha. Springer.2009. Chapter 8.
 ![教学内容](./jxnr-horizontal.webp)
 
 
+作业答案与解析 
+---
+![教学内容](./MOOC_solutions_2023.pdf)
+
+
 练习题
 ---
 20分钟RTL快速练习题  
