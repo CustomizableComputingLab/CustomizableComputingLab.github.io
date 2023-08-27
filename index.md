@@ -63,7 +63,7 @@
 5.学科竞赛获奖
 ---
 （未计入省级奖励）
-![获奖图片](./contest_rewards.webp)
+![获奖图片](./contest_rewards.jpg)
 
 部分获奖作品展示：
 - 2018年，第二届全国大学生集成电路创新创业大赛全国一等奖、第二届全国大学生集成电路创新创业大赛优秀指导教师；[Softmax函数的硬件加速计算电路设计](https://github.com/CustomizableComputingLab/PYNQ_softmax)  
