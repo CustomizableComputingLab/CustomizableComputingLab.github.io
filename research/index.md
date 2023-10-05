@@ -31,7 +31,8 @@
 - X. Yan, Z. Di, et al., "A High Throughput and Energy Efficient Lepton Hardware Encoder With Hash-Based Memory Optimization," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 7, pp. 4680-4695, July 2022. (JCR Q1)
 - Q. Wu, X. Li, Y. Han, Z. Di and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.(JCR Q1)  
 - Q. Wu, X. Li, Y. Li, Z. Di and Q. Feng, "Implementation of High Precision Error Amplification Scheme for AC-DC Converter," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1522-1526, March 2022, doi: 10.1109/TCSII.2021.3126166.(JCR Q2)  
-- 麦景,王嘉睿,邸志雄等.OpenPARF:基于深度学习工具包的大规模异构FPGA开源布局布线框架[J/OL].电子与信息学报:1-14[2023-10-05].  
+- 麦景,王嘉睿,邸志雄等.OpenPARF:基于深度学习工具包的大规模异构FPGA开源布局布线框架[J/OL].电子与信息学报:1-14[2023-10-05].
+- 董勐,高一鸣,潘伟涛等.RELIC-GNN:一种高效的状态寄存器识别算法[J].西安电子科技大学学报,2023,50(03):142-150.  
 - Zhixiong Di, Yongming Tang, Jiahua Lu, Zhaoyang Lv:ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board. ACM Great Lakes Symposium on VLSI 2021: 431-436. (教学研究论文)(CCF-C)
 
 
