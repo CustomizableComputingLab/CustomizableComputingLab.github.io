@@ -20,7 +20,8 @@
 
 3.代表性论文
 ---
-
+- J. Mai, J. Wang, Z. Di and Y. Lin, "Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2023.3313101. (CCF-A)  
+- J. Wang, J. Mai, Z. Di and Y. Lin, "A Robust FPGA Router with Concurrent Intra-CLB Rerouting," 2023 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2023, pp. 529-534. (CCF-C)  
 - Q. Xu, Y. Xiang, Z. Di(*), et al., "Synthetic Aperture Radar Image Compression Based on a Variational Autoencoder," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4015905. (JCR Q1)  
 - X. Chen, Z. Di(*), W. Wu, Q. Wu, J. Shi and Q. Feng, "Detailed Routing Short Violation Prediction Using Graph-based Deep Learning Model," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 2, pp. 564-568, Feb. 2022. (JCR Q2)
 - Z. Shao, Z. Di(*), et al., "A High-Throughput VLSI Architecture Design Of Canonical Huffman Encoder," in IEEE Transactions on Circuits and Systems II: Express Briefs(TCAS-II), vol. 69, no. 1, pp. 209-213, Jan. 2022. (JCR Q2)
@@ -28,8 +29,9 @@
 - J. Chen, Z. Di(*), J. Shi, Q. Feng and Q. Wu, "NBLG: A Robust Legalizer for Mixed-Cell-Height Modern Design," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 41, no. 11, pp. 4681-4693, Nov. 2022.(CCF-A)
 - Jing Mai, Yibai Meng, Zhixiong Di, and Yibo Lin. 2022. Multi-electrostatic FPGA placement considering SLICEL-SLICEM heterogeneity and clock feasibility. In Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC’22). Association for Computing Machinery, New York, NY, USA, 649–654. https://doi.org/10.1145/3489517.3530568.(CCF-A)
 - X. Yan, Z. Di, et al., "A High Throughput and Energy Efficient Lepton Hardware Encoder With Hash-Based Memory Optimization," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 7, pp. 4680-4695, July 2022. (JCR Q1)
-- Q. Wu, X. Li, Y. Han, Z. Di and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.(JCR Q1)
-- Q. Wu, X. Li, Y. Li, Z. Di and Q. Feng, "Implementation of High Precision Error Amplification Scheme for AC-DC Converter," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1522-1526, March 2022, doi: 10.1109/TCSII.2021.3126166.(JCR Q2)
+- Q. Wu, X. Li, Y. Han, Z. Di and Q. Feng, "A Valley-Locking Control Scheme for an Audible Noise-Free Valley-Skip-Mode Flyback Converter," in IEEE Transactions on Industrial Electronics, vol. 69, no. 7, pp. 7285-7294, July 2022, doi: 10.1109/TIE.2021.3099223.(JCR Q1)  
+- Q. Wu, X. Li, Y. Li, Z. Di and Q. Feng, "Implementation of High Precision Error Amplification Scheme for AC-DC Converter," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 69, no. 3, pp. 1522-1526, March 2022, doi: 10.1109/TCSII.2021.3126166.(JCR Q2)  
+- 麦景,王嘉睿,邸志雄等.OpenPARF:基于深度学习工具包的大规模异构FPGA开源布局布线框架[J/OL].电子与信息学报:1-14[2023-10-05].  
 - Zhixiong Di, Yongming Tang, Jiahua Lu, Zhaoyang Lv:ASIC Design Principle Course with Combination of Online-MOOC and Offline-Inexpensive FPGA Board. ACM Great Lakes Symposium on VLSI 2021: 431-436. (教学研究论文)(CCF-C)
 
 
