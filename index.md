@@ -23,6 +23,9 @@
 1.新闻
 ---
 - [更多新闻请戳此链接](./LabNews)
+- 2023.12，2023年12月2日-12月3日，2023年第六届“全国大学生嵌入式芯片与系统设计竞赛”FPGA设计赛道与芯片设计赛道全国总决赛在南京举行。实验室参赛队伍荣获全国一等奖、全国二等奖各一项，其中：本科生队伍在FPGA设计赛道中荣获全国一等奖，创我校在该赛道中的历史最佳成绩；实验室与北京微电子技术研究所联合组队的硕士研究生队伍在芯片设计赛道中荣获全国二等奖！
+- 2023.11，祝贺陶润哲同学的论文"LEAPS: Topological-Layout-Adaptable Multi-die FPGA Placement for Super Long Line Minimization"被IEEE TCAS-1录用！ 
+- 2023.11，祝贺陶润哲同学的论文"Imbalanced Large Graph Learning Framework for FPGA Logic Elements Packing Prediction"被IEEE TCAS-2录用！  
 - 2023.08，祝贺实验室三位本科生荣获全国大学生集成电路创新创业大赛飞腾处理器赛道全国二等奖！同学们针对飞腾CPU架构的特点，提出了一种基于帧间预测和照度生成的高速LIME算法，协同使用NEON、OpenMP等将LIME算法在飞腾CPU上的运行效率加速218倍；针对飞腾CPU架构，构建了JPEG、SM4、TinyMaix等常用加速函数库，为飞腾CPU的生态建设贡献了一点点工作！ 
 - 2023.08，祝贺实验室研究生队伍（陶润哲、谢雨池、陈林）荣获第六届“华为杯”中国研究生创“芯”大赛全国一等奖！[西南交大研究生院报道](https://gsnews.swjtu.edu.cn/info/1068/6803.htm) 
 - 2023.07，祝贺实验室两组本科生队伍分别荣获第七届全国大学生集成电路创新创业大赛西南赛区一等奖、二等奖！
