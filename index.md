@@ -89,7 +89,9 @@
   
   
  - [请加关注教师微信公众号“硬件加速与EDA”，下载MOOC课程课件与习题答案]   
-   ![课程图片]( ./HA_EDA.webp) 
+   ![课程图片]( ./HA_EDA.webp)
+
+ - 欢迎关注教师B站账号“讲芯片的邸老师”、知乎ID“Forever snow”、小红书“讲芯片的邸老师”       
 
 7.芯片设计笔试题与面试题（持续收集与更新...）
 ---
@@ -109,6 +111,8 @@
 
 友情链接
 ---
+- [B站账号“讲芯片的邸老师”](https://space.bilibili.com/382647602)  
+- [知乎ID“Forever snow”](https://www.zhihu.com/people/Foreversnow)    
 - [EDA/VLSI/FPGA Conferences](https://www.cse.chalmers.se/research/group/vlsi/conference/)  
 - [西安电子科技大学通信工程学院潘伟涛老师微信公众号：网络交换与FPGA]
 ![课程图片](./wechat_pan1.jpg)
