@@ -240,8 +240,10 @@ Bhasker, Rakesh Chadha. Springer.2009. Chapter 8.
  [RTL TEST1](./test/RTL_TEST.zip)  
  [RTL TEST2](./test2/test2.zip)  
  [RTL TEST3](./test3/test_student.zip)  
- [RTL TEST4](./test4/matrix_multi.zip)  
-
+ [RTL TEST4](./test4/matrix_multi.zip)    
+ [RTL TEST5: Dual_SRAM_RTL](./lab-1-Dual_SRAM_RTL.pdf) 
+ [RTL TEST6: Matrix_MAC_RTL](./lab-2- Matrix_MAC_RTL.pdf) 
+ 
 
 参考网站
 ---
