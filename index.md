@@ -23,6 +23,7 @@
 1.实验室动态  
 ---
 - [更多新闻请戳此链接](./LabNews)
+- 2024.05，祝贺实验室硕士生陈千禧、陶润哲、邓雨姣同学在ISEDA'2024中被郝跃院士颁发“集成电路EDA设计精英挑战赛”TOP3“菁英杯”大奖！
 - 2024.04，祝贺实验室硕士生陶润哲同学入选省优秀毕业生；实验室硕士生陈林、本科生付秋涛同学入选校级优秀毕业生！
 - 2024.04，祝贺一篇论文被GLS-VLSI'2024（CCF-C）的“microelectronics system education” track录用，“TITLE: A Design of Remote FPGA Experimental Teaching System Supporting Single-Board Multi-User and Multi-Board Single-User for MOOCs”，基于Xilinx DFX技术和PYNQ框架的远程FPGA系统，这个工作也是2023年全国大学生嵌入式芯片与系统设计竞赛（FPGA设计赛道）的全国一等奖获奖作品！
 - 2023.12，祝贺实验室毕业生陈旋同学的硕士学位论文“面向SAR图像压缩芯片的软件模型及硬件物理设计优化研究”被评为西南交通大学2023年度优秀硕士学位论文！  
