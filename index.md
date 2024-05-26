@@ -23,7 +23,8 @@
 1.实验室动态  
 ---
 - [更多新闻请戳此链接](./LabNews)
-- 2023.04，祝贺一篇论文被GLS-VLSI'2024（CCF-C）的“microelectronics system education” track录用，“TITLE: A Design of Remote FPGA Experimental Teaching System Supporting Single-Board Multi-User and Multi-Board Single-User for MOOCs”，基于Xilinx DFX技术和PYNQ框架的远程FPGA系统，这个工作也是2023年全国大学生嵌入式芯片与系统设计竞赛（FPGA设计赛道）的全国一等奖获奖作品！
+- 2024.04，祝贺实验室硕士生陶润哲同学入选省优秀毕业生；实验室硕士生陈林、本科生付秋涛同学入选校级优秀毕业生！
+- 2024.04，祝贺一篇论文被GLS-VLSI'2024（CCF-C）的“microelectronics system education” track录用，“TITLE: A Design of Remote FPGA Experimental Teaching System Supporting Single-Board Multi-User and Multi-Board Single-User for MOOCs”，基于Xilinx DFX技术和PYNQ框架的远程FPGA系统，这个工作也是2023年全国大学生嵌入式芯片与系统设计竞赛（FPGA设计赛道）的全国一等奖获奖作品！
 - 2023.12，祝贺实验室毕业生陈旋同学的硕士学位论文“面向SAR图像压缩芯片的软件模型及硬件物理设计优化研究”被评为西南交通大学2023年度优秀硕士学位论文！  
 - 2023年12月24日，祝贺实验室硕士生在第五届集成电路EDA精英挑战赛中荣获一等奖、二等奖、三等奖各一项。尤其是在“超大规模版图图形匹配算法”赛题中获得赛题第一名，并捧得赛事最高奖之一的“菁英杯”！[西南交大报道](https://news.swjtu.edu.cn/info/1011/48525.htm)    
 - 2023年12月23日，祝贺实验室本科生杨欣睿同学在全国先进计算技术创新大赛中荣获二等奖，在飞腾处理器上，从算法设计到汇编实现做了全方面的优化，将FFT算子性能在arm架构处理器上提升了数倍！[先进计算技术创新大赛报道](http://www.ac-innovation.com/eventDynamics/imnewsDetail?_t=6cp1ljNZ8kIAFtTRU5Ls2pSk%2BS8AjJvCTmKodYBeKj0%3D)    
