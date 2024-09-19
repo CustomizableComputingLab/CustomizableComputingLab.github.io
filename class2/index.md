@@ -33,7 +33,7 @@
 前序知识
 ---具备数字集成电路、ASIC/SoC/FPGA设计等基础知识。
 
-基于SYNOPSYS DC 逻辑综合约束自动化生成框架介绍和TCL脚本源代码
+基于SYNOPSYS DC 约束自动化生成框架和TCL脚本代码
 ---
 - 说明文档和脚本源代码 [scripts](./SYN_FLOW.zip)
 
