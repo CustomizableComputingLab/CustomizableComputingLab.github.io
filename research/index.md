@@ -1,24 +1,7 @@
-1.研究方向：基于AI的图像编解码芯片设计
+研究方向：超大规模芯片物理实现算法，基于AI的图像编解码芯片设计，FPGA加速器设计
 ---
-![图片](imcom1.webp)  
-![图片](imcom2.webp)    
-- 作为主要研发人员，深度参与完成了我国首颗宇航级高速图像压缩芯片“雅芯-天图”，芯片采用0.18μm宇航抗辐照工艺，于2018年成功应用于高分十一号卫星遥感卫星、“嫦娥系列”探月卫星、“天舟一号”货运飞船等。
-- 研究高性能图像压缩编解码算法与硬件加速器， 重点包括JPEG、JPEG2000、Lepton、Guetzli等。参与复旦大学ASIC重点实验室范益波教授主持的项目“基于硬件的JPEG无损编码及转码系统项目”荣获阿里巴巴创新研究计划优秀学术项目奖！ [项目合作方：复旦大学ASIC国家重点实验室、阿里巴巴]  
-- 研究成果发表在IEEE TCAS-Ⅱ(JCR Q2) 、IEEE TCSVT(JCR Q1) 等期刊。  
-- 10Gbps网络处理器芯片[项目合作方：西安电子科技大学宽带隙半导体国家重点学科实验室]   
 
-
-2.研究方向：超大规模芯片物理实现算法
----
-![图片](EDA1.webp)   
-![图片](EdaResearch.webp)   
-
-- 聚焦布局布线、时序分析、AI4EDA等，在IEEE TCAD’22 (领域TOP期刊、唯一CCF-A 期刊)、IEEE/ACM DAC’22(CCF-A，领域TOP会议)、IEEE TCAS-Ⅱ’22(JCR Q2) 等发表多篇学术论文。  
-- 荣获国内多个EDA算法竞赛的全国一等奖。  
-- 凝练学术成果，助力中国“芯”：民用国产FPGA领军企业、航天九院等在FPGA物理实现领域已开展深入合作。 
- 
-
-3.代表性论文
+代表性论文
 ---
 - Z. Di, R. Tao, J. Mai, L. Chen and Y. Lin, "LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization," in IEEE Transactions on Circuits and Systems I: Regular Papers, doi: 10.1109/TCSI.2023.3340554.(JCR Q1)  
 - Z. Di, R. Tao, L. Chen, Q. Wu and Y. Lin, "Imbalanced Large Graph Learning Framework for FPGA Logic Elements Packing Prediction," in IEEE Transactions on Circuits and Systems II: Express Briefs, doi: 10.1109/TCSII.2023.3334247. (JCR Q2)  
