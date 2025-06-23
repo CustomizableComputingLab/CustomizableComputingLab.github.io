@@ -3,7 +3,11 @@
 
 代表性论文
 ---
-- Z. Di, R. Tao, J. Mai, L. Chen and Y. Lin, "LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization," in IEEE Transactions on Circuits and Systems I: Regular Papers, doi: 10.1109/TCSI.2023.3340554.(JCR Q1)  
+- Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di, Yibo Lin: A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 44(3): 1003-1016 (2025)
+- Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, Yibo Lin, Runsheng Wang, Ru Huang: LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method. ISPD 2025: 22-30
+- Jing Mai, Jiarui Wang, Zhixiong Di, Yibo Lin: Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 43(2): 641-653 (2024)
+- Zhixiong Di, Runzhe Tao, Jing Mai, Lin Chen, Yibo Lin: LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization. IEEE Trans. Circuits Syst. I Regul. Pap. 71(3): 1259-1272 (2024)
+- Zhengguang Tang, Cong Li, Hailong You, Zhixiong Di, Linying Zhang, Xingming Liu, Yu Wang, Yong Dai, Geng Bai: Semi-Supervised Transfer Learning Framework for Aging-Aware Library Characterization. IEEE Trans. Circuits Syst. II Express Briefs 71(3): 1156-1160 (2024)
 - Z. Di, R. Tao, L. Chen, Q. Wu and Y. Lin, "Imbalanced Large Graph Learning Framework for FPGA Logic Elements Packing Prediction," in IEEE Transactions on Circuits and Systems II: Express Briefs, doi: 10.1109/TCSII.2023.3334247. (JCR Q2)  
 - J. Mai, J. Wang, Z. Di and Y. Lin, "Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2023.3313101. (CCF-A)  
 - J. Wang, J. Mai, Z. Di and Y. Lin, "A Robust FPGA Router with Concurrent Intra-CLB Rerouting," 2023 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2023, pp. 529-534. (CCF-C)  
