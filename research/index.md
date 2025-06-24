@@ -16,6 +16,7 @@
 
 代表性论文
 ---
+- Q. Chen, Y. Deng, Q. Wu and Z. Di, "An r-DFA-based Layout Pattern Match Method Supporting Fuzzy Matching," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2025.3556969.
 - Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di, Yibo Lin: A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 44(3): 1003-1016 (2025)
 - Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, Yibo Lin, Runsheng Wang, Ru Huang: LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method. ISPD 2025: 22-30
 - Jing Mai, Jiarui Wang, Zhixiong Di, Yibo Lin: Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 43(2): 641-653 (2024)
