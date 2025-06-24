@@ -6,10 +6,10 @@
 
 
 开源项目
----
-[OpenPARF 2.0:开源大规模Multi-die FPGA布局框架](https://www.bilibili.com/opus/893608589253410824?spm_id_from=333.1387.0.0)    
+---  
+- [OpenPARF 2.0:开源大规模Multi-die FPGA布局框架](https://www.bilibili.com/opus/893608589253410824?spm_id_from=333.1387.0.0)     
 
-[Open NBLG: 一种开源的混合高度单元布局合法化方法](https://www.bilibili.com/opus/983934985820962818?spm_id_from=333.1387.0.0)
+- [Open NBLG: 一种开源的混合高度单元布局合法化方法](https://www.bilibili.com/opus/983934985820962818?spm_id_from=333.1387.0.0)   
 
 
 
